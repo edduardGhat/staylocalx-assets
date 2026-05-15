@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.1",
+    "version": "1.2",
     "last_updated": "2026-05-15",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -109,6 +109,67 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_01_hook.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_02_value.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_03_cta.png"
+        ]
+      }
+    ]
+  },
+
+  "/publish_q1_dining_recs": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "How often do your guests ask where to eat? 👇\n\nWe're collecting answers from hosts worldwide.\n\nEvery time a guest asks where to eat, it's free market research. They're showing you their intent. Their decision-making moment. Their willingness to spend.\n\nAnd most hosts are giving away that intent for free.\n\nThree answers below, then we'll share what we learned next week:\n\n• Never – they figure it out themselves\n• A few times a stay – I send a list once\n• Constantly – they ask every single day\n\nDrop a number 1, 2, or 3. 👇\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #propertyowner #vacationrentalowner #airbnbtips #hosttips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/master_en/q1_dining_recs.png"
+        ]
+      },
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "How often do your guests ask where to eat? 👇\n\nWe're collecting answers from hosts worldwide.\n\nThree options:\n\n• Never – they figure it out themselves\n• A few times a stay – I send a list once\n• Constantly – they ask every single day\n\nDrop a 1, 2, or 3 in the comments. 👇\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #propertyowner #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/master_en/q1_dining_recs.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "How often do your guests ask where to eat? 👇\n\nWe're collecting answers from hosts across the US.\n\nEvery time a guest asks where to eat, it's free market research. They're showing you their intent. Their willingness to spend. Their decision-making moment.\n\nAnd most hosts are giving that intent away for free.\n\nThree options below:\n\n• Never – they figure it out themselves\n• A few times a stay – I send a list once\n• Constantly – they ask every single day\n\nDrop a 1, 2, or 3. 👇\n\n#vacationrental #airbnbhostUSA #shorttermrental #vrbohost #airbnbhost #propertyowner #vacationrentalowner #hosttips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/us/q1_dining_recs.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "¿Cuánto te preguntan tus huéspedes dónde comer? 👇\n\nEstamos recogiendo respuestas de propietarios de toda España.\n\nCada vez que un huésped te pregunta dónde cenar es información gratis. Te está enseñando su intención. Su momento de decisión. Su disposición a gastar.\n\nY la mayoría de propietarios regalamos esa información sin más.\n\nTres opciones — comenta el número:\n\n• 1 = Nunca, se buscan ellos la vida\n• 2 = Algunas veces, mando una lista al llegar\n• 3 = Constantemente, me preguntan todos los días\n\nComenta abajo. 👇\n\n#alquilervacacional #propietarios #airbnbespaña #turismorural #anfitrion #alquilerturistico #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/es/q1_dining_recs.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "¿Cuánto te preguntan tus huéspedes dónde comer? 👇\n\nEstamos recogiendo respuestas de anfitriones de todo México.\n\nCada vez que un huésped te pregunta dónde cenar es información gratis. Te está enseñando su intención. Su momento de decisión. Su disposición a gastar.\n\nY la mayoría de anfitriones regalamos esa información sin más.\n\nTres opciones — comenta el número:\n\n• 1 = Nunca, ellos se las arreglan\n• 2 = A veces, les mando una lista al llegar\n• 3 = Constantemente, me preguntan todos los días\n\nComenta abajo. 👇\n\n#rentavacacional #airbnbmexico #airbnbhost #anfitrion #propietarios #rentaturistica #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/mx/q1_dining_recs.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "How often do your guests ask for restaurant recommendations? 👇\n\nWe're collecting answers from premium property owners across the UAE.\n\nEvery time a guest asks where to dine, it's a window into their intent. Their decision-making moment. Their willingness to spend on a curated experience.\n\nAnd most owners give that intent away for free.\n\nThree options:\n\n• Never – my concierge handles everything\n• A few times per stay – I share a curated list\n• Constantly – they ask every day\n\nDrop a 1, 2, or 3. 👇\n\n#dubaiproperty #abudhabiproperty #uaeproperty #luxuryvilla #premiumrental #holidayhomedubai #hostlife #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/uae/q1_dining_recs.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Quanto spesso i tuoi ospiti chiedono dove mangiare? 👇\n\nStiamo raccogliendo risposte da proprietari di case vacanze in tutta Italia.\n\nOgni volta che un ospite chiede dove cenare è informazione gratuita. Ti sta mostrando la sua intenzione. Il suo momento di decisione. La sua disponibilità a spendere.\n\nE la maggior parte dei proprietari regala quell'informazione senza ricevere nulla in cambio.\n\nTre opzioni — commenta il numero:\n\n• 1 = Mai, si organizzano da soli\n• 2 = Qualche volta, invio una lista all'arrivo\n• 3 = Costantemente, me lo chiedono ogni giorno\n\nCommenta qui sotto. 👇\n\n#casavacanze #affittibrevi #airbnbitalia #proprietari #anfitrione #affittoturistico #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/questions/q1_dining_recs/it/q1_dining_recs.png"
         ]
       }
     ]
