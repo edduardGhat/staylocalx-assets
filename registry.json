@@ -1,9 +1,21 @@
 {
   "_meta": {
-    "version": "1.0",
-    "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
+    "version": "1.1",
     "last_updated": "2026-05-15",
-    "structure_docs": "Each key is a Telegram command. Two forms supported: (A) Simple — shared caption/images across all targets. (B) Localized — each target has its own caption/images. The Code Job Builder reads `target.caption || content.caption` and `target.images || content.images`."
+    "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
+    "active_accounts": [
+      "@thestaylocalx (EN, €)",
+      "@staylocalx.app (EN, €)",
+      "@staylocalx.us ($, USD)",
+      "@staylocalx.es (ES, €)",
+      "@staylocalx.mx (ES, $ MXN)",
+      "@staylocalx.uae (EN, AED)",
+      "@staylocalx.it (IT, €)"
+    ],
+    "pending_accounts": [
+      "@staylocalx.uk (planned)",
+      "@staylocalx.fr (planned)"
+    ]
   },
 
   "/publish_tut01_en": {
@@ -77,6 +89,26 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/launch_01_hook.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/launch_02_value.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "We're live in the UAE. 🚀\n\nStaylocalx is now available for premium property owners across Dubai, Abu Dhabi, and the Emirates.\n\nThe proposition is simple:\n\n• You own a luxury villa, premium apartment, or holiday home\n• Your guests constantly ask for restaurant and experience recommendations\n• Right now, those recommendations generate zero return for you\n\nStaylocalx changes that. ✨\n\nA premium digital guide your guests access by scanning a discreet QR code with their phone camera — no app to download, designed to match the standards your guests expect. Curated local restaurants, experiences, and concierge services pay you a commission every time your guest actually visits (GPS-verified, you only get paid for real visits).\n\nThe split: 70% stays with you. Always.\nPotential: up to AED 2,000/mo in additional passive income per property.\nSetup time: 5 minutes.\n\nIf you've ever thought \"I should be earning from these recommendations\" — this is for you. 👇\n\nLink in bio. Free to start.\n\n#dubaiproperty #abudhabiproperty #uaeproperty #luxuryvilla #premiumrental #holidayhomedubai #hostlife #passiveincome #staylocalx #welive",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Finalmente siamo qui. 🚀\n\nDopo mesi di lavoro, Staylocalx è ora disponibile per proprietari di case vacanze in tutto il mondo.\n\nL'idea è semplice:\n\n• Hai un appartamento turistico, una villa o una casa vacanze\n• I tuoi ospiti chiedono sempre \"dove possiamo cenare stasera?\"\n• In questo momento, quelle raccomandazioni non ti generano nulla\n\nStaylocalx risolve tutto questo. ⚡\n\nRicevi una guida digitale gratuita che i tuoi ospiti aprono con la fotocamera del telefono — senza scaricare nessuna app, senza attriti. Ristoranti, attività e servizi locali ti pagano una commissione ogni volta che il tuo ospite li visita davvero (verifica GPS, paghi solo le visite reali).\n\nDivisione: il 70% resta a te. Sempre.\nPotenziale: fino a €500/mese di reddito passivo extra.\nTempo di configurazione: 5 minuti.\n\nSe hai mai pensato \"dovrei essere pagato per queste raccomandazioni\" — questo è per te. 👇\n\nLink in bio. Iniziare è gratis.\n\n#casavacanze #affittibrevi #airbnbitalia #proprietari #anfitrione #redditopassivo #affittoturistico #staylocalx #lancio",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_03_cta.png"
         ]
       }
     ]
