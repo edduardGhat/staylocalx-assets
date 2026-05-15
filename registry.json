@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
+    "last_updated": "2026-05-15",
+    "structure_docs": "Each key is a Telegram command. Two forms supported: (A) Simple — shared caption/images across all targets. (B) Localized — each target has its own caption/images. The Code Job Builder reads `target.caption || content.caption` and `target.images || content.images`."
+  },
+
+  "/publish_tut01_en": {
+    "caption": "Onboard your property in under 5 minutes. ⚡\n\nStep-by-step: from zero to a live digital guide your guests can scan with their phone camera.\n\nWhat's inside this carousel ⤵️\n\n• Sign up & confirm your email\n• Pick your role (Owner)\n• Add your first property\n• Name, location, photos, guest capacity\n• You're live — ready for Tutorial 02\n\nSave this for when you're ready to set up. Comment ASK if anything's unclear and I'll walk you through it. 👇\n\nTutorial 02 is dropping next — we'll customize your guide so guests actually use it.\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #staylocalx #passiveincome #propertyowner #vacationrentalowner #airbnbtips #hosttips",
+    "images": [
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839459/slide_01_hook_wf4fsx.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839459/slide_02_promise_hgqps6.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839458/slide_03_step01_signup_i6yvkk.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839458/slide_04_step02_role_sblxh9.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839458/slide_05_step03_email_fo0kqz.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839458/slide_06_step04_dashboard_rtmdjq.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839457/slide_07_step05_name_yuw49f.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839457/slide_08_step06_photos_h66piu.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839457/slide_09_step07_capacity_aeolvd.png",
+      "https://res.cloudinary.com/djerzqwl4/image/upload/v1778839457/slide_10_cta_o19tjd.png"
+    ],
+    "targets": [
+      { "ig_id": "17841439487297303", "name": "@thestaylocalx" },
+      { "ig_id": "17841443547847788", "name": "@staylocalx.us" },
+      { "ig_id": "17841439457327053", "name": "@staylocalx.app" }
+    ]
+  },
+
+  "/publish_launch_all": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "We're live. 🚀\n\nAfter months of building, Staylocalx is now available for property owners worldwide.\n\nHere's the simple version:\n\n• You have a vacation rental, villa, or short-term let\n• Your guests always ask \"where should we eat tonight?\"\n• Right now, those recommendations earn you nothing\n\nStaylocalx fixes that. ⚡\n\nYou get a free digital guide your guests scan with their phone camera — no app to download, no friction. Local restaurants, activities, and services pay you a commission every time your guest actually visits (GPS-verified, so you only get paid for real foot traffic).\n\nThe split: 70% stays with you. Always.\nAverage potential: up to €500/mo in additional passive income.\nSetup time: 5 minutes.\n\nTutorial 01 is live on this account if you want to see exactly how to onboard your first property.\n\nIf you've ever thought \"I should be getting paid for these recommendations\" — this is for you. 👇\n\nLink in bio. Free to start.\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #vacationrentalowner #passiveincome #propertyowner #airbnbtips #hosttips #staylocalx #welive #launch",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "We're live. 🚀\n\nAfter months of building, Staylocalx is now available for property owners worldwide.\n\nHere's the simple version:\n\n• You have a vacation rental, villa, or short-term let\n• Your guests always ask \"where should we eat tonight?\"\n• Right now, those recommendations earn you nothing\n\nStaylocalx fixes that. ⚡\n\nYou get a free digital guide your guests scan with their phone camera — no app to download, no friction. Local restaurants, activities, and services pay you a commission every time your guest actually visits (GPS-verified, so you only get paid for real foot traffic).\n\nThe split: 70% stays with you. Always.\nAverage potential: up to €500/mo in additional passive income.\nSetup time: 5 minutes.\n\nLink in bio. Free to start.\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #vacationrentalowner #passiveincome #propertyowner #airbnbtips #hosttips #staylocalx #welive #launch",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "We're live. 🚀\n\nAfter months of building, Staylocalx is now available for property owners across the US.\n\nHere's the simple version:\n\n• You have a vacation rental, cabin, or short-term let\n• Your guests always ask \"where should we eat tonight?\"\n• Right now, those recommendations earn you nothing\n\nStaylocalx fixes that. ⚡\n\nYou get a free digital guide your guests scan with their phone camera — no app to download, no friction. Local restaurants, activities, and services pay you a commission every time your guest actually visits (GPS-verified, so you only get paid for real foot traffic).\n\nThe split: 70% stays with you. Always.\nAverage potential: up to $500/mo in additional passive income.\nSetup time: 5 minutes.\n\nIf you've ever thought \"I should be getting paid for these recommendations\" — this is for you. 👇\n\nLink in bio. Free to start.\n\n#vacationrental #airbnbhostUSA #shorttermrental #vrbohost #airbnbhost #propertyowner #vacationrentalowner #passiveincome #hosttips #staylocalx #welive",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Por fin estamos aquí. 🚀\n\nDespués de meses construyendo, Staylocalx ya está disponible para propietarios en todo el mundo.\n\nLa idea es sencilla:\n\n• Tienes un apartamento turístico, villa o alquiler vacacional\n• Tus huéspedes siempre preguntan \"¿dónde podemos cenar esta noche?\"\n• Ahora mismo, esas recomendaciones no te generan nada\n\nStaylocalx lo arregla. ⚡\n\nRecibes una guía digital gratuita que tus huéspedes abren con la cámara del móvil — sin descargar ninguna app, sin fricción. Los restaurantes, actividades y servicios locales te pagan una comisión cada vez que tu huésped realmente los visita (verificación por GPS, así que solo cobras visitas reales).\n\nReparto: 70% se queda contigo. Siempre.\nPotencial: hasta €500/mes de ingresos pasivos extra.\nTiempo de configuración: 5 minutos.\n\nSi alguna vez has pensado \"debería estar cobrando por estas recomendaciones\" — esto es para ti. 👇\n\nEnlace en bio. Empezar es gratis.\n\n#alquilervacacional #propietarios #airbnbespaña #turismorural #anfitrion #ingresosextra #alquilerturistico #staylocalx #lanzamiento",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Ya estamos aquí. 🚀\n\nDespués de meses construyendo, Staylocalx ya está disponible para propietarios en México.\n\nLa idea es sencilla:\n\n• Tienes un departamento, casa o renta vacacional\n• Tus huéspedes siempre preguntan \"¿dónde podemos cenar esta noche?\"\n• Ahora mismo, esas recomendaciones no te generan nada\n\nStaylocalx lo arregla. ⚡\n\nRecibes una guía digital gratuita que tus huéspedes abren con la cámara del celular — sin descargar ninguna app, sin fricción. Los restaurantes, actividades y servicios locales te pagan una comisión cada vez que tu huésped realmente los visita (verificación por GPS, así que solo cobras visitas reales).\n\nReparto: 70% se queda contigo. Siempre.\nPotencial: hasta $10,000 MXN/mes de ingresos pasivos extra.\nConfiguración: 5 minutos.\n\nSi alguna vez has pensado \"debería estar cobrando por estas recomendaciones\" — esto es para ti. 👇\n\nLink en bio. Empezar es gratis.\n\n#rentavacacional #airbnbmexico #airbnbhost #anfitrion #propietarios #ingresosextra #rentaturistica #staylocalx #lanzamiento",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/launch_03_cta.png"
+        ]
+      }
+    ]
+  }
+}
