@@ -1,19 +1,19 @@
 {
   "_meta": {
-    "version": "1.3",
+    "version": "1.4",
     "last_updated": "2026-05-15",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
       "@staylocalx.app (EN, €)",
       "@staylocalx.us ($, USD)",
+      "@staylocalx.uk (UK EN, £)",
       "@staylocalx.es (ES, €)",
       "@staylocalx.mx (ES, $ MXN)",
       "@staylocalx.uae (EN, AED)",
       "@staylocalx.it (IT, €)"
     ],
     "pending_accounts": [
-      "@staylocalx.uk (planned)",
       "@staylocalx.fr (planned)"
     ]
   },
@@ -76,6 +76,16 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/launch_01_hook.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/launch_02_value.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/launch_03_cta.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "We're live in the UK. 🚀\n\nAfter months of building, Staylocalx is now available for holiday let owners across the Cotswolds, Lake District, Cornwall, Scottish Highlands, Pembrokeshire and beyond.\n\nHere's the simple version:\n\n• You own a holiday let, cottage, B&B or short-stay property\n• Your guests always ask \"where should we eat tonight?\"\n• Right now, those recommendations earn you nothing\n\nStaylocalx fixes that. ⚡\n\nYou get a free digital guide your guests scan with their phone camera — no app to download, no faff. Local restaurants, pubs, activities and services pay you a commission every time your guest actually visits (GPS-verified, you only get paid for real footfall).\n\nThe split: 70% stays with you. Always.\nAverage potential: up to £400/mo in additional passive income per property.\nSetup time: 5 minutes.\n\nIf you've ever thought \"I should be getting paid for these recommendations\" — this is for you. 👇\n\nLink in bio. Free to start.\n\n#holidaylet #shorttermrental #airbnbhost #airbnbhostUK #cotswolds #lakedistrict #cornwall #scottishhighlands #vacationrental #propertyowner #hosttips #staylocalx #welive",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/launch_01_hook.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/launch_02_value.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/launch_03_cta.png"
         ]
       },
       {
