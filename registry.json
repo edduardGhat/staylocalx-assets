@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.12",
+    "version": "1.13",
     "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -416,7 +416,7 @@
       {
         "ig_id": "17841439457327053",
         "name": "@staylocalx.app",
-        "caption": "€0.\n\nThat's your Staylocalx balance until your bank is connected.\n\nGuests can scan your QR. Coupons can fire. Commissions can rack up. None of it reaches you until your IBAN is in.\n\n7 minutes. One time. Done forever.\n\nWhat's inside this carousel ⤵️\n\n• The banner on your dashboard (you've been ignoring it)\n• Open the modal — 3 simple steps\n• Sign in with Stripe (same Stripe as Shopify, Lyft)\n• Bank details (currency, IBAN, holder name)\n• Banner gone, payouts automatic\n• The math: €1 / €3 / €5 per visit × 9 slots × 70% your cut\n\nAfter this you can earn for real. Tutorial 04 next — sell your first ad slot.\n\nSave this for when you're ready. 👇\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #staylocalx #passiveincome #propertyowner #vacationrentalowner #airbnbtips #hosttips",
+        "caption": "€0.\n\nThat's your Staylocalx balance until your bank is connected.\n\nGuests can scan your QR. Coupons can fire. Commissions can rack up. None of it reaches you until your IBAN is in.\n\n7 minutes. One time. Done forever.\n\nWhat's inside this carousel ⤵️\n\n• The banner on your dashboard (you've been ignoring it)\n• Open the modal — 3 simple steps\n• Sign in with Stripe (same Stripe as Shopify, Lyft)\n• Bank details (currency, IBAN, holder name)\n• Banner gone, payouts automatic\n• The math: every restaurant, every service, every leisure activity pays you — leisure is the highest ticket (think jet skis, horseback, boat tours). × 9 slots × 70% your cut.\n\nPer-visit payouts vary by country.\n\nAfter this you can earn for real. Tutorial 04 next — sell your first ad slot.\n\nSave this for when you're ready. 👇\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #staylocalx #passiveincome #propertyowner #vacationrentalowner #airbnbtips #hosttips",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut03/slide01.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut03/slide02.png",
