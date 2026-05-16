@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.6",
-    "last_updated": "2026-05-15",
+    "version": "1.7",
+    "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -238,6 +238,34 @@
         "caption": "Test single image post. Esto es una prueba del nuevo flujo.",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_03_cta.png"
+        ]
+      }
+    ]
+  },
+  "/publish_guest_view_es_fr_it": {
+    "targets": [
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Esto es lo que ven tus huéspedes al llegar.\n\nWiFi al primer toque. Reglas de la casa claras. Contacto directo contigo. Descuentos exclusivos en restaurantes locales.\n\nSin app que descargar. Solo escanean el QR en la puerta.\n\n🏖️ Funciona en Mallorca, Costa Brava, Andalucía, Costa del Sol y cualquier zona turística de España.\n\nTú te quedas el 70% de cada comisión cuando un huésped usa un cupón. Hasta €500/mes extra por propiedad.\n\nGratis para empezar.\n\nLink en bio ⚡\n\n#alquilervacacional #airbnbhosts #anfitriones #propiedadesvacacionales #marbella #mallorca #costabrava #andalucia #ingresosextra #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Voici ce que voient vos invités à leur arrivée.\n\nWiFi en un clic. Règlement clair. Contact direct avec vous. Réductions exclusives chez les restaurants locaux.\n\nAucune application à télécharger. Ils scannent le QR à la porte.\n\n🌿 Fonctionne en Provence, Côte d'Azur, Bretagne, Alsace et toute zone touristique de France.\n\nVous gardez 70% de chaque commission quand un invité utilise un coupon. Jusqu'à €500/mois de revenu supplémentaire par propriété.\n\nGratuit pour commencer.\n\nLien en bio ⚡\n\n#locationsaisonniere #airbnbhost #hote #provence #cotedazur #bretagne #revenupassif #locationvacances #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Ecco cosa vedono i tuoi ospiti al loro arrivo.\n\nWiFi con un tocco. Regole della casa chiare. Contatto diretto con te. Sconti esclusivi nei ristoranti locali.\n\nNessuna app da scaricare. Scansionano il QR sulla porta.\n\n🍷 Funziona in Toscana, Costiera Amalfitana, Lago di Como, Puglia e qualsiasi zona turistica d'Italia.\n\nTu trattieni il 70% di ogni commissione quando un ospite usa un coupon. Fino a €500/mese di reddito extra per proprietà.\n\nGratis per iniziare.\n\nLink in bio ⚡\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #puglia #redditopassivo #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/guest_view_v1.png"
         ]
       }
     ]
