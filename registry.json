@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.7",
+    "version": "1.8",
     "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -266,6 +266,58 @@
         "caption": "Ecco cosa vedono i tuoi ospiti al loro arrivo.\n\nWiFi con un tocco. Regole della casa chiare. Contatto diretto con te. Sconti esclusivi nei ristoranti locali.\n\nNessuna app da scaricare. Scansionano il QR sulla porta.\n\n🍷 Funziona in Toscana, Costiera Amalfitana, Lago di Como, Puglia e qualsiasi zona turistica d'Italia.\n\nTu trattieni il 70% di ogni commissione quando un ospite usa un coupon. Fino a €500/mese di reddito extra per proprietà.\n\nGratis per iniziare.\n\nLink in bio ⚡\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #puglia #redditopassivo #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/guest_view_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_guest_view_remaining": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "This is what your guests see when they arrive.\n\nWiFi at the first tap. Clear house rules. Direct contact with you. Exclusive discounts at local restaurants.\n\nNo app to download. They just scan the QR at the door.\n\n🌍 Works in any tourist area — vacation rentals, holiday villas, B&Bs, cottages.\n\nYou keep 70% of every commission when a guest uses a coupon. Up to €500/mo extra per property.\n\nFree to start.\n\nLink in bio ⚡\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #propertyowner #passiveincome #hosttips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "This is what your guests see when they arrive.\n\nWiFi at the first tap. Clear house rules. Direct contact with you. Exclusive discounts at local restaurants.\n\nNo app to download. They just scan the QR at the door.\n\n🌍 Works in any tourist area — vacation rentals, holiday villas, B&Bs, cottages.\n\nYou keep 70% of every commission when a guest uses a coupon. Up to €500/mo extra per property.\n\nFree to start.\n\nLink in bio ⚡\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #propertyowner #passiveincome #hosttips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "This is what your guests see when they arrive.\n\nWiFi at the first tap. Clear house rules. Direct contact with you. Exclusive discounts at local restaurants.\n\nNo app to download. They just scan the QR at the door.\n\n🏖️ Works across the US — Hamptons, Napa Valley, Smoky Mountains, Florida Keys, Outer Banks and any vacation rental area.\n\nYou keep 70% of every commission when a guest uses a coupon. Up to $500/mo extra per property.\n\nFree to start.\n\nLink in bio ⚡\n\n#vacationrental #airbnbhostUSA #shorttermrental #vrbohost #vacationrentalowner #hamptons #napavalley #floridakeys #passiveincome #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "This is what your guests see when they arrive.\n\nWiFi at the first tap. Clear house rules. Direct contact with you. Exclusive discounts at local restaurants and pubs.\n\nNo app to download. They just scan the QR at the door.\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Works across the UK — Cotswolds, Lake District, Cornwall, Scottish Highlands, Pembrokeshire and any holiday let area.\n\nYou keep 70% of every commission when a guest uses a coupon. Up to £400/mo extra per property.\n\nFree to start.\n\nLink in bio ⚡\n\n#holidaylet #shorttermrental #airbnbhostUK #cotswolds #lakedistrict #cornwall #scottishhighlands #pembrokeshire #passiveincome #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "This is what your guests see when they arrive.\n\nWiFi at the first tap. Clear house rules. Direct contact with you. Exclusive perks at premium local venues.\n\nNo app to download. They just scan the QR at the door.\n\n🕌 Built for high-end stays across Dubai, Abu Dhabi and Ras Al Khaimah — luxury villas, branded residences, premium short-term lets.\n\nYou keep 70% of every commission when a guest uses a perk. Up to AED 2,000/mo additional revenue per property.\n\nFree to start.\n\nLink in bio ⚡\n\n#dubai #abudhabi #luxuryvilla #shorttermrental #vacationrental #propertymanagement #passiveincome #hospitality #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/guest_view_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Esto es lo que ven tus huéspedes al llegar.\n\nWiFi al primer toque. Reglas de la casa claras. Contacto directo contigo. Descuentos exclusivos en restaurantes locales.\n\nSin app que descargar. Solo escanean el QR en la puerta.\n\n🌴 Funciona en Tulum, Playa del Carmen, Bacalar, Holbox, Mérida, Sayulita y cualquier zona turística de México.\n\nTú te quedas el 70% de cada comisión cuando un huésped usa un cupón. Hasta $10,000 MXN/mes extra por propiedad.\n\nGratis para empezar.\n\nLink en bio ⚡\n\n#rentavacacional #airbnbmexico #anfitrion #tulum #playadelcarmen #bacalar #holbox #ingresospasivos #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/guest_view_v1.png"
         ]
       }
     ]
