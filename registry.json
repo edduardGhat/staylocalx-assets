@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.9",
+    "version": "1.10",
     "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -386,6 +386,28 @@
         "caption": "Stessa proprietà. Stessa routine. Solo che ora ogni ospite che varca la tua porta lascia anche qualcosa nel tuo conto.\n\nI consigli locali trasformati in entrate. Coupon che gli ospiti utilizzano in ristoranti, attività e servizi vicini. Tu trattieni il 70% di ogni commissione.\n\n🍷 Funziona in Toscana, Costiera Amalfitana, Lago di Como, Puglia e qualsiasi zona turistica d'Italia.\n\nFino a €500/mese aggiuntivi per proprietà. Gratis per iniziare.\n\nLink in bio.\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #redditopassivo #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/arena_before_after_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_tut02_en": {
+    "targets": [
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "Edit your guide and make it impossible to ignore. ⚡\n\nOnce your property is created (Tutorial 01), this is what you do next: fill the 6 tabs that turn a basic listing into a 5★ guest experience.\n\nWhat's inside this carousel ⤵️\n\n• Starting point — Guide Quality at 52/100\n• WiFi setup\n• Arrival instructions\n• Checkout reminders\n• Amenities you offer\n• House rules\n• Contact info + emergency numbers (auto-detected)\n\nBy the end: Guide Quality at 65/100. The remaining 35 points unlock when you launch your first ad campaign — Tutorial 03 next.\n\nSave this for when you're ready to set up. Comment ASK if anything's unclear. 👇\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #staylocalx #passiveincome #propertyowner #vacationrentalowner #airbnbtips #hosttips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide08.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide09.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide10.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut02/slide11.png"
         ]
       }
     ]
