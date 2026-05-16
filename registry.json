@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.5",
+    "version": "1.6",
     "last_updated": "2026-05-15",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -226,6 +226,18 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/launch_01_hook.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/launch_02_value.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/launch_03_cta.png"
+        ]
+      }
+    ]
+  },
+  "/publish_test_single": {
+    "targets": [
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "Test single image post. Esto es una prueba del nuevo flujo.",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_03_cta.png"
         ]
       }
     ]
