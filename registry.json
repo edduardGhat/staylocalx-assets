@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.13",
+    "version": "1.14",
     "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -427,6 +427,74 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut03/slide07.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut03/slide08.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut03/slide09.png"
+        ]
+      }
+    ]
+  },
+  "/publish_launch_letter": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "This is our story.\n\nWe were 3 guys and 1 girl chained to spreadsheets at the Big Four. Then one Tuesday, a partner's father got laid off after 30 years of service. That was the day loyalty died for us.\n\nWe pooled our savings and bought a riad in Fez. Guests kept asking us where to eat, what to do, who to trust. We answered every day, for free.\n\nUntil one night we realized — every host on earth does this. Why are we doing it for free?\n\nThat's how Staylocalx was born.\n\nBuilt by hosts. For hosts. Your recommendations are an asset — we built the tool to turn them into income. 70% of every commission yours. Free to start.\n\nWelcome. Link in bio.\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #passiveincome #propertyowner #foundersstory #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "This is our story.\n\n3 guys and 1 girl chained to spreadsheets at the Big Four. Then one Tuesday, a partner's father got laid off after 30 years. That was the day loyalty died for us.\n\nWe pooled our savings and bought a riad in Fez. Guests kept asking where to eat, what to do, who to trust. We answered every day, for free.\n\nUntil one night we realized — every host on earth does this. Why are we doing it for free?\n\nThat's how Staylocalx was born.\n\n🏖️ Built for vacation rentals across the US — Hamptons, Napa Valley, Smoky Mountains, Florida Keys, Outer Banks and beyond.\n\nYour recommendations are an asset. 70% of every commission yours. Free to start.\n\nLink in bio.\n\n#vacationrental #airbnbhostUSA #shorttermrental #vrbohost #hamptons #napavalley #floridakeys #foundersstory #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "This is our story.\n\n3 guys and 1 girl chained to spreadsheets at the Big Four. Then one Tuesday, a partner's father got laid off after 30 years. That was the day loyalty died for us.\n\nWe pooled our savings and bought a riad in Fez. Guests kept asking where to eat, what to do, who to trust. We answered every day, for free.\n\nUntil one night we realized — every host on earth does this. Why are we doing it for free?\n\nThat's how Staylocalx was born.\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Built for holiday lets across the UK — Cotswolds, Lake District, Cornwall, Scottish Highlands, Pembrokeshire.\n\nYour recommendations are an asset. 70% of every commission yours. Free to start.\n\nLink in bio.\n\n#holidaylet #shorttermrental #airbnbhostUK #cotswolds #lakedistrict #cornwall #foundersstory #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "This is our story.\n\n3 guys and 1 girl chained to spreadsheets at the Big Four. Then one Tuesday, a partner's father got laid off after 30 years. That was the day loyalty died for us.\n\nWe pooled our savings and bought a riad in Fez. Guests kept asking where to eat, what to do, who to trust. We answered every day, for free.\n\nUntil one night we realized — every host on earth does this. Why are we doing it for free?\n\nThat's how Staylocalx was born.\n\n🕌 Built for premium short-term stays across Dubai, Abu Dhabi and Ras Al Khaimah — luxury villas and branded residences.\n\nCurated experiences as an asset. 70% of every commission yours. Free to start.\n\nLink in bio.\n\n#dubai #abudhabi #luxuryvilla #shorttermrental #vacationrental #propertymanagement #foundersstory #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Esta es nuestra historia.\n\nÉramos 3 chicos y 1 chica encadenados a hojas de cálculo en una Big Four. Hasta que un martes al padre de un socio lo despidieron tras 30 años de servicio. Ese fue el día en que la lealtad murió para nosotros.\n\nJuntamos nuestros ahorros y compramos un riad en Fez. Los huéspedes no paraban de preguntarnos dónde comer, qué hacer, en quién confiar. Respondíamos cada día, gratis.\n\nHasta que una noche nos dimos cuenta — cada anfitrión del mundo hace esto. ¿Por qué lo hacemos gratis?\n\nAsí nació Staylocalx.\n\n🏖️ Construido para alquileres vacacionales en Mallorca, Costa Brava, Andalucía, Costa del Sol y cualquier zona turística de España.\n\nTus recomendaciones son un activo. El 70% de cada comisión es tuyo. Gratis para empezar.\n\nLink en bio.\n\n#alquilervacacional #airbnbhost #anfitrion #propiedadesvacacionales #mallorca #costabrava #andalucia #historiafundadores #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Esta es nuestra historia.\n\nÉramos 3 chicos y 1 chica encadenados a hojas de cálculo en una Big Four. Hasta que un martes al padre de un socio lo despidieron tras 30 años de servicio. Ese fue el día en que la lealtad murió para nosotros.\n\nJuntamos nuestros ahorros y compramos un riad en Fez. Los huéspedes no paraban de preguntarnos dónde comer, qué hacer, en quién confiar. Respondíamos cada día, gratis.\n\nHasta que una noche nos dimos cuenta — cada anfitrión del mundo hace esto. ¿Por qué lo hacemos gratis?\n\nAsí nació Staylocalx.\n\n🌴 Construido para rentas vacacionales en Tulum, Playa del Carmen, Bacalar, Holbox, Sayulita, Mérida y cualquier zona turística de México.\n\nTus recomendaciones son un activo. El 70% de cada comisión es tuyo. Gratis para empezar.\n\nLink en bio.\n\n#rentavacacional #airbnbmexico #anfitrion #tulum #playadelcarmen #bacalar #holbox #historiafundadores #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Voici notre histoire.\n\nNous étions 3 garçons et 1 fille enchaînés aux tableurs Excel chez les Big Four. Jusqu'à ce mardi où le père d'un associé a été remercié après 30 ans de service. C'est le jour où la loyauté est morte pour nous.\n\nNous avons mis nos économies en commun et acheté un riad à Fès. Les invités n'arrêtaient pas de nous demander où manger, quoi faire, à qui faire confiance. Nous répondions chaque jour, gratuitement.\n\nJusqu'à ce qu'une nuit nous réalisions — chaque hôte sur terre fait ça. Pourquoi le faisons-nous gratuitement ?\n\nC'est ainsi qu'est née Staylocalx.\n\n🌿 Conçu pour les locations saisonnières en Provence, Côte d'Azur, Bretagne, Alsace et toute zone touristique de France.\n\nVos recommandations sont un actif. 70% de chaque commission est à vous. Gratuit pour commencer.\n\nLien en bio.\n\n#locationsaisonniere #airbnbhost #hote #provence #cotedazur #bretagne #histoirefondateurs #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/launch_letter_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Questa è la nostra storia.\n\nEravamo 3 ragazzi e 1 ragazza incatenati ai fogli di calcolo nei Big Four. Finché un martedì il padre di un socio è stato licenziato dopo 30 anni di servizio. Quello è stato il giorno in cui la lealtà è morta per noi.\n\nAbbiamo messo insieme i nostri risparmi e comprato un riad a Fez. Gli ospiti non smettevano mai di chiederci dove mangiare, cosa fare, di chi fidarsi. Rispondevamo ogni giorno, gratis.\n\nFinché una notte ci siamo resi conto — ogni host sulla terra fa questo. Perché lo facciamo gratis?\n\nCosì è nata Staylocalx.\n\n🍷 Costruito per affitti brevi in Toscana, Costiera Amalfitana, Lago di Como, Puglia e qualsiasi zona turistica d'Italia.\n\nI tuoi consigli sono un asset. Il 70% di ogni commissione è tuo. Gratis per iniziare.\n\nLink in bio.\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #puglia #storiafondatori #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_letter_v1.png"
         ]
       }
     ]
