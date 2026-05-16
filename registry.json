@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.8",
+    "version": "1.9",
     "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -318,6 +318,74 @@
         "caption": "Esto es lo que ven tus huéspedes al llegar.\n\nWiFi al primer toque. Reglas de la casa claras. Contacto directo contigo. Descuentos exclusivos en restaurantes locales.\n\nSin app que descargar. Solo escanean el QR en la puerta.\n\n🌴 Funciona en Tulum, Playa del Carmen, Bacalar, Holbox, Mérida, Sayulita y cualquier zona turística de México.\n\nTú te quedas el 70% de cada comisión cuando un huésped usa un cupón. Hasta $10,000 MXN/mes extra por propiedad.\n\nGratis para empezar.\n\nLink en bio ⚡\n\n#rentavacacional #airbnbmexico #anfitrion #tulum #playadelcarmen #bacalar #holbox #ingresospasivos #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/guest_view_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_arena_before_after": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Same property. Same routine. Just that now every guest walking through your door also leaves something in your account.\n\nLocal recommendations turned into income. Coupons that guests redeem at restaurants, leisure and services nearby. You keep 70% of every commission.\n\n🌍 Works in any vacation rental area — villas, cottages, apartments, B&Bs.\n\nUp to €500/mo extra per property. Free to start.\n\nLink in bio.\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #propertyowner #passiveincome #hosttips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Same property. Same routine. Just that now every guest walking through your door also leaves something in your account.\n\nLocal recommendations turned into income. Coupons that guests redeem at restaurants, attractions and services nearby. You keep 70% of every commission.\n\n🏖️ Works across the US — Hamptons, Napa Valley, Smoky Mountains, Florida Keys, Outer Banks and any vacation rental area.\n\nUp to $500/mo extra per property. Free to start.\n\nLink in bio.\n\n#vacationrental #airbnbhostUSA #shorttermrental #vrbohost #hamptons #napavalley #floridakeys #passiveincome #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Same property. Same routine. Just that now every guest walking through your door also leaves something in your account.\n\nLocal recommendations turned into income. Coupons that guests redeem at restaurants, pubs and services nearby. You keep 70% of every commission.\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Works across the UK — Cotswolds, Lake District, Cornwall, Scottish Highlands, Pembrokeshire and any holiday let area.\n\nUp to £400/mo extra per property. Free to start.\n\nLink in bio.\n\n#holidaylet #shorttermrental #airbnbhostUK #cotswolds #lakedistrict #cornwall #scottishhighlands #passiveincome #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Same villa. Same routine. Just that now every guest walking through your door also leaves something in your account.\n\nCurated local experiences turned into revenue. Perks that guests redeem at premium venues nearby. You keep 70% of every commission.\n\n🕌 Built for premium short-term stays across Dubai, Abu Dhabi and Ras Al Khaimah — luxury villas, branded residences, premium short-term lets.\n\nUp to AED 2,000/mo additional revenue per property. Free to start.\n\nLink in bio.\n\n#dubai #abudhabi #luxuryvilla #shorttermrental #vacationrental #propertymanagement #hospitality #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "El mismo alojamiento. La misma rutina. Solo que ahora cada huésped que entra por tu puerta también deja algo en tu cuenta.\n\nRecomendaciones de tu zona convertidas en ingresos. Cupones que validan los huéspedes en restaurantes, ocio y servicios cercanos. Tú te quedas el 70% de cada comisión.\n\n🏖️ Funciona en Mallorca, Costa Brava, Andalucía, Costa del Sol y cualquier zona turística de España.\n\nHasta €500/mes extra por propiedad. Gratis para empezar.\n\nLink en bio.\n\n#alquilervacacional #airbnbhost #anfitrion #propiedadesvacacionales #mallorca #costabrava #andalucia #ingresosextra #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "El mismo alojamiento. La misma rutina. Solo que ahora cada huésped que llega también deja algo en tu cuenta.\n\nRecomendaciones de tu zona convertidas en ingresos. Cupones que validan los huéspedes en restaurantes, actividades y servicios cercanos. Tú te quedas el 70% de cada comisión.\n\n🌴 Funciona en Tulum, Playa del Carmen, Bacalar, Holbox, Sayulita, Mérida y cualquier zona turística de México.\n\nHasta $10,000 MXN/mes extra por propiedad. Gratis para empezar.\n\nLink en bio.\n\n#rentavacacional #airbnbmexico #anfitrion #tulum #playadelcarmen #bacalar #holbox #ingresospasivos #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Même propriété. Même routine. Sauf que maintenant chaque invité qui franchit votre porte laisse aussi quelque chose sur votre compte.\n\nLes recommandations locales transformées en revenus. Les coupons que vos invités utilisent dans les restaurants, loisirs et services à proximité. Vous gardez 70% de chaque commission.\n\n🌿 Fonctionne en Provence, Côte d'Azur, Bretagne, Alsace et toute zone touristique de France.\n\nJusqu'à €500/mois supplémentaires par propriété. Gratuit pour commencer.\n\nLien en bio.\n\n#locationsaisonniere #airbnbhost #hote #provence #cotedazur #bretagne #revenupassif #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/arena_before_after_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Stessa proprietà. Stessa routine. Solo che ora ogni ospite che varca la tua porta lascia anche qualcosa nel tuo conto.\n\nI consigli locali trasformati in entrate. Coupon che gli ospiti utilizzano in ristoranti, attività e servizi vicini. Tu trattieni il 70% di ogni commissione.\n\n🍷 Funziona in Toscana, Costiera Amalfitana, Lago di Como, Puglia e qualsiasi zona turistica d'Italia.\n\nFino a €500/mese aggiuntivi per proprietà. Gratis per iniziare.\n\nLink in bio.\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #redditopassivo #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/arena_before_after_v1.png"
         ]
       }
     ]
