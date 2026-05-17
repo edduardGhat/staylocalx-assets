@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.17",
+    "version": "1.18",
     "last_updated": "2026-05-17",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -603,6 +603,74 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide07.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide08.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide09.png"
+        ]
+      }
+    ]
+  },
+  "/publish_extras_revenue": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Your guests want extras. They just don't ask. ⚡\n\nLate checkout. Breakfast basket. Airport pickup. Picnic blanket. Private chef.\n\nThey want all of it. They just won't ask — because asking feels rude.\n\nThe Staylocalx Extras & Services widget puts every offer on their phone, inside the QR guide they already opened. They tap. WhatsApp opens with you. Deal done in 30 seconds.\n\nThe math is brutal: 3 extras per stay × €15 average × 28 stays/year = €1,260/property/year extra. Two properties and you've added €420/mo without lifting a finger.\n\nYou set the catalogue once. You manage payment your way — cash on arrival, transfer, whatever. No platform takes a cut on extras.\n\nSave this for the next time you wonder where the missed money is hiding.\n\nAvailable everywhere Staylocalx works — Spain, Italy, France, UK, USA, Mexico, UAE.\n\n#vacationrental #shorttermrental #airbnbhost #hosttips #staylocalx #propertyowner #upsell #passiveincome #hospitalitytech #travelmarketing",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Your guests want extras. They just don't ask. ⚡\n\nLate checkout. Breakfast basket. Airport pickup. Beach picnic kit. Private chef.\n\nThey want all of it. They just won't ask — because asking feels rude.\n\nThe Staylocalx Extras & Services widget puts every offer on their phone, inside the QR guide they already opened. They tap. WhatsApp opens with you. Deal done in 30 seconds.\n\nThe math: 3 extras per stay × $15 average × 28 stays/year = $1,260/property/year extra. Two properties and you've added $420/mo without lifting a finger.\n\nYou set the catalogue once. You manage payment your way — Venmo, Zelle, cash on arrival. No platform takes a cut.\n\nSave this for the next time you wonder where the missed money is hiding.\n\nHamptons. Napa. Smoky Mountains. Florida Keys. Catskills. Lake Tahoe.\n\n#vacationrental #shorttermrental #airbnbhost #vrbo #hosttips #staylocalx #vacationrentalowner #hamptons #napa #smbusiness",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Your guests want extras. They just don't ask. ⚡\n\nLate checkout. Breakfast hamper. Airport pickup. Picnic basket. In-house chef.\n\nThey want all of it. They just won't ask — because asking feels rude.\n\nThe Staylocalx Extras & Services widget puts every offer on their phone, inside the QR guide they already opened. They tap. WhatsApp opens with you. Sorted in 30 seconds.\n\nThe math: 3 extras per stay × £12 average × 28 stays/year = £1,008/property/year. Two properties and you've added £350/mo without lifting a finger.\n\nYou set the catalogue once. You manage payment your way — bank transfer, cash on arrival, whatever you prefer. No platform takes a cut on extras.\n\nSave this for the next time you wonder where the missed money is hiding.\n\nCotswolds. Lake District. Cornwall. Scottish Highlands. Norfolk Coast. Peak District.\n\n#holidaylet #airbnbhost #shorttermlet #hostlife #staylocalx #propertyowner #cotswolds #lakedistrict #cornwallholidays #hospitalitybusiness",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Your guests want extras. They just don't ask. ⚡\n\nLate checkout. Premium breakfast basket. Airport transfer. Private chef. Yacht charter referral.\n\nThey want all of it. They just won't ask — because asking feels presumptuous.\n\nThe Staylocalx Extras & Services widget puts every offer on their phone, inside the QR guide they already opened. They tap. WhatsApp opens with you. Done in 30 seconds.\n\nThe math: 3 extras per stay × AED 60 average × 28 stays/year = AED 5,040/property/year. Two properties and you've added AED 1,700/month without lifting a finger.\n\nYou set the catalogue once. You manage payment your way — cash, transfer, anything. No platform takes a cut on extras.\n\nSave this for when you wonder where the missed revenue is hiding.\n\nDubai Marina. Palm Jumeirah. Downtown Dubai. JBR. Abu Dhabi Corniche. Yas Island.\n\n#dubairentals #shorttermrental #propertyowner #staylocalx #dubaibusiness #hospitality #vacationrental #luxuryrental #palmjumeirah #abudhabi",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Tus huéspedes quieren extras. Pero no los piden. ⚡\n\nLate checkout. Cesta de desayuno. Recogida en aeropuerto. Picnic playero. Chef privado.\n\nLo quieren todo. Pero no lo piden — porque pedir incomoda.\n\nEl widget de Extras y Servicios de Staylocalx pone cada oferta en su móvil, dentro de la guía QR que ya abrieron. Pulsan. Se abre WhatsApp contigo. Cerrado en 30 segundos.\n\nLas cuentas: 3 extras por estancia × €15 de media × 28 estancias/año = €1.260/propiedad/año. Dos propiedades y te has metido €420/mes adicionales sin mover un dedo.\n\nTú montas el catálogo una vez. Tú cobras como quieras — Bizum, efectivo, transferencia. Ninguna plataforma se lleva comisión de los extras.\n\nGuarda este post para la próxima vez que te preguntes dónde se está escapando el dinero.\n\nMallorca. Costa Brava. Costa del Sol. Canarias. Sierra Nevada. Madrid. Valencia. Cádiz.\n\n#alquilervacacional #anfitrionairbnb #propietario #staylocalx #ingresopasivo #mallorca #costabrava #andalucia #canarias #turismorural",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Tus huéspedes quieren extras. Pero no los piden. ⚡\n\nLate checkout. Canasta de desayuno. Traslado al aeropuerto. Kit de playa. Chef privado.\n\nLo quieren todo. Pero no lo piden — porque pedir incomoda.\n\nEl widget de Extras y Servicios de Staylocalx pone cada oferta en su celular, dentro de la guía QR que ya abrieron. Tocan. Se abre WhatsApp contigo. Cerrado en 30 segundos.\n\nLas cuentas: 3 extras por estancia × $300 MXN de promedio × 28 estancias/año = $25,200 MXN/propiedad/año. Dos propiedades y te metiste $8,400 MXN/mes adicionales sin mover un dedo.\n\nTú armas el catálogo una vez. Tú cobras como quieras — efectivo, SPEI, transferencia. Ninguna plataforma se lleva comisión de los extras.\n\nGuarda este post para la próxima vez que te preguntes dónde se te está yendo el dinero.\n\nTulum. Playa del Carmen. Mérida. Sayulita. San Miguel de Allende. Valle de Guadalupe. CDMX.\n\n#rentavacacional #anfitrion #propietario #staylocalx #ingresoextra #tulum #playadelcarmen #sayulita #merida #airbnbmexico",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Vos voyageurs veulent des extras. Ils n'osent pas demander. ⚡\n\nLate checkout. Panier petit-déjeuner. Transfert aéroport. Pique-nique. Chef privé à domicile.\n\nIls veulent tout ça. Mais ils ne demandent pas — par politesse.\n\nLe widget Extras et Services de Staylocalx affiche chaque offre sur leur téléphone, dans le guide QR qu'ils ont déjà ouvert. Ils tapent. WhatsApp s'ouvre avec vous. Affaire conclue en 30 secondes.\n\nLe calcul: 3 extras par séjour × 15€ en moyenne × 28 séjours/an = 1 260€/logement/an. Deux logements et vous avez ajouté 420€/mois sans lever le petit doigt.\n\nVous montez le catalogue une fois. Vous encaissez comme bon vous semble — virement, espèces, Lydia. Aucune plateforme ne prend de commission sur les extras.\n\nSauvegardez ce post pour la prochaine fois que vous vous demanderez où passe l'argent.\n\nProvence. Côte d'Azur. Alsace. Pays Basque. Bretagne. Bourgogne. Île de Ré.\n\n#locationsaisonniere #hoteairbnb #proprietaire #staylocalx #revenuspassifs #provence #cotedazur #alsace #paysbasque #gitesdefrance",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/extras_revenue_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "I tuoi ospiti vogliono extra. Ma non li chiedono. ⚡\n\nLate checkout. Cestino colazione. Transfer aeroporto. Picnic. Chef privato a domicilio.\n\nVogliono tutto questo. Ma non chiedono — perché chiedere imbarazza.\n\nIl widget Extra e Servizi di Staylocalx mostra ogni offerta sul loro telefono, dentro la guida QR che hanno già aperto. Toccano. Si apre WhatsApp con te. Affare chiuso in 30 secondi.\n\nIl calcolo: 3 extra a soggiorno × 15€ in media × 28 soggiorni/anno = 1.260€/struttura/anno. Due strutture e hai aggiunto 420€/mese senza muovere un dito.\n\nTu monti il catalogo una volta. Incassi come preferisci — bonifico, contanti, Satispay. Nessuna piattaforma prende commissioni sugli extra.\n\nSalva questo post per la prossima volta che ti chiederai dove se ne sta andando il denaro.\n\nToscana. Costiera Amalfitana. Lago di Como. Cinque Terre. Sardegna. Sicilia. Dolomiti. Puglia.\n\n#affittibrevi #hostairbnb #proprietario #staylocalx #redditoextra #toscana #amalfi #cinqueterre #sardegna #sicilia",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/extras_revenue_v1.png"
         ]
       }
     ]
