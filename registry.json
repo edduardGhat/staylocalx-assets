@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.14",
+    "version": "1.15",
     "last_updated": "2026-05-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -495,6 +495,26 @@
         "caption": "Questa è la nostra storia.\n\nEravamo 3 ragazzi e 1 ragazza incatenati ai fogli di calcolo nei Big Four. Finché un martedì il padre di un socio è stato licenziato dopo 30 anni di servizio. Quello è stato il giorno in cui la lealtà è morta per noi.\n\nAbbiamo messo insieme i nostri risparmi e comprato un riad a Fez. Gli ospiti non smettevano mai di chiederci dove mangiare, cosa fare, di chi fidarsi. Rispondevamo ogni giorno, gratis.\n\nFinché una notte ci siamo resi conto — ogni host sulla terra fa questo. Perché lo facciamo gratis?\n\nCosì è nata Staylocalx.\n\n🍷 Costruito per affitti brevi in Toscana, Costiera Amalfitana, Lago di Como, Puglia e qualsiasi zona turistica d'Italia.\n\nI tuoi consigli sono un asset. Il 70% di ogni commissione è tuo. Gratis per iniziare.\n\nLink in bio.\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #puglia #storiafondatori #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/launch_letter_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_tut04_en": {
+    "targets": [
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "30.\n\nThat's how many advertisers your property can hold. Right now zero are paying you.\n\nLet's fix that — 10 minutes to send your first link.\n\nWhat's inside this carousel ⤵️\n\n• Your 9 slots (up to 30) — pre-priced, you set the final number\n• The Launch Price hack: 50% off first 1-2 months, auto-renews at full price\n• Hit \"Invite Business\" → pick a slot → get a unique link\n• What the advertiser sees: a landing built to convert (hyper-targeted, GPS-verified, no commitment)\n• The copy-paste script that closes — WhatsApp or email, swap [bracketed] for yours\n• When they say YES: 70% monthly fee + 70% per GPS-verified visit lands in your IBAN\n\nSave this. Send the first link to the restaurant closest to your door. 👇\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #staylocalx #passiveincome #propertyowner #hosttips #airbnbtips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide08.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide09.png"
         ]
       }
     ]
