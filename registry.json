@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.16",
+    "version": "1.17",
     "last_updated": "2026-05-17",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -583,6 +583,26 @@
         "caption": "Loro aprono questo. Tu guadagni quello.\n\nUn codice QR sulla tua porta. Gli ospiti lo scansionano all'arrivo — e ricevono una guida locale con i tuoi posti preferiti, ristoranti con sconti reali, WiFi, istruzioni di arrivo, contatti di emergenza. Tutto nella loro lingua. Gratis per loro, per sempre.\n\nDal tuo lato: ogni coupon riscattato ti paga. Ogni slot pubblicitario venduto ti paga mensilmente. Il 70% arriva automaticamente sul tuo conto.\n\n🍷 Pensato per affitti brevi in Toscana, Costiera Amalfitana, Lago di Como, Puglia e ogni zona turistica d'Italia.\n\nGratis per gli ospiti. Soldi veri per gli host. Link in bio.\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #puglia #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/split_screens_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_tut05_en": {
+    "targets": [
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "Set up your business on Staylocalx in 5 minutes. ⚡\n\nYou don't need a website. You don't need an agency. You don't need a marketing budget. You need 5 minutes and an email address.\n\nWhat's inside this carousel ⤵️\n\n• Step 1 — Open account (email + password, that's it)\n• Step 2 — Pick role: Local Business (heads up — it's permanent)\n• Step 3 — Welcome dashboard (3 steps and you're earning)\n• Step 4 — Category: Food & Drink (€1 per GPS-verified visit)\n• Step 5 — Or Activities (€5) or Services (€3)\n• Step 6 — Set your opening hours\n• Step 7 — You're live, ready to find slots\n• 🔑 BONUS — what you actually pay (per visit, never per impression)\n\nWhy this matters: every time a guest walks into your business through Staylocalx, GPS confirms it. You pay then — not for views, not for clicks, not for impressions. Only when a real human shows up.\n\nNo monthly commitment. No cancel fee. Pause anytime.\n\nSave this. Send it to that friend who runs the café down the street. Comment HOW if you want the slot-booking tutorial next. 👇\n\n#staylocalx #localbusiness #smallbusiness #localadvertising #propertytech #vacationrental #shorttermrental #airbnb #localmarketing #smb #ads #marketing #propertyowner #hosttips #advertisingtips #foodanddrink #restaurantmarketing #tourismbusiness #travelmarketing #localads",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide08.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut05/slide09.png"
         ]
       }
     ]
