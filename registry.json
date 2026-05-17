@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.15",
+    "version": "1.16",
     "last_updated": "2026-05-17",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -515,6 +515,74 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide07.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide08.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/tut04/slide09.png"
+        ]
+      }
+    ]
+  },
+  "/publish_split_screens": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "They open this. You earn that.\n\nOne QR code on your door. Guests scan it the moment they arrive — they get a curated guide of your favorite spots, restaurants with real discounts, check-in steps, WiFi password, emergency contacts. Everything in their language. Free for them, forever.\n\nMeanwhile, on your side: every coupon they redeem at a local business pays you. Every ad slot you've sold pays you monthly. 70% lands automatically in your bank — no invoices, no chasing, no manual transfers.\n\nFree for guests. Real money for hosts. Built for short-term rentals everywhere.\n\nLink in bio.\n\n#vacationrental #airbnbhost #shorttermrental #hostlife #passiveincome #propertyowner #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/split_screens_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "They open this. You earn that.\n\nOne QR code on your door. Guests scan it on arrival — they get a curated local guide with your favorite spots, restaurants with real discounts, WiFi, check-in steps, emergency contacts. All in their language. Free for them, forever.\n\nOn your side: every coupon redeemed pays you. Every ad slot sold pays you monthly. 70% lands automatically in your bank.\n\n🏖️ Built for vacation rentals across the US — Hamptons, Napa Valley, Smoky Mountains, Florida Keys, Outer Banks.\n\nFree for guests. Real money for hosts. Link in bio.\n\n#vacationrental #airbnbhostUSA #vrbohost #hamptons #napavalley #floridakeys #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/split_screens_us_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "They open this. You earn that.\n\nOne QR code on your door. Guests scan it on arrival — they get a curated local guide with your favourite spots, restaurants with real discounts, WiFi, check-in steps, emergency contacts. All in their language. Free for them, forever.\n\nOn your side: every coupon redeemed pays you. Every ad slot sold pays you monthly. 70% lands automatically in your bank.\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Built for holiday lets across the UK — Cotswolds, Lake District, Cornwall, Scottish Highlands, Pembrokeshire.\n\nFree for guests. Real money for hosts. Link in bio.\n\n#holidaylet #shorttermrental #airbnbhostUK #cotswolds #lakedistrict #cornwall #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/split_screens_uk_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "They open this. You earn that.\n\nOne QR code on your door. Guests scan it on arrival — they get a curated local guide with your hand-picked spots, restaurants with real discounts, WiFi, check-in steps, emergency contacts. All in their language. Free for them, forever.\n\nOn your side: every coupon redeemed pays you. Every ad slot sold pays you monthly. 70% lands automatically.\n\n🕌 Built for premium short-term stays across Dubai, Abu Dhabi and Ras Al Khaimah.\n\nFree for guests. Real money for hosts. Link in bio.\n\n#dubai #abudhabi #luxuryvilla #shorttermrental #vacationrental #propertymanagement #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/split_screens_uae_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Ellos abren esto. Tú ganas eso.\n\nUn código QR en tu puerta. Los huéspedes lo escanean al llegar — y reciben una guía local con tus sitios favoritos, restaurantes con descuentos reales, WiFi, instrucciones de llegada, contactos de emergencia. Todo en su idioma. Gratis para ellos, para siempre.\n\nEn tu lado: cada cupón que canjean te paga. Cada slot publicitario que has vendido te paga mensual. El 70% llega automáticamente a tu cuenta — sin facturas, sin perseguir cobros, sin transferencias manuales.\n\n🏖️ Pensado para alquileres vacacionales en Mallorca, Costa Brava, Andalucía, Costa del Sol y cualquier zona turística de España.\n\nGratis para huéspedes. Dinero real para anfitriones. Link en bio.\n\n#alquilervacacional #airbnbhost #anfitrion #mallorca #costabrava #andalucia #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/split_screens_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Ellos abren esto. Tú ganas eso.\n\nUn código QR en tu puerta. Los huéspedes lo escanean al llegar — y reciben una guía local con tus lugares favoritos, restaurantes con descuentos reales, WiFi, instrucciones de llegada, contactos de emergencia. Todo en su idioma. Gratis para ellos, para siempre.\n\nEn tu lado: cada cupón que canjean te paga. Cada slot publicitario que has rentado te paga mensual. El 70% llega automáticamente a tu cuenta.\n\n🌴 Pensado para rentas vacacionales en Tulum, Playa del Carmen, Bacalar, Holbox, Sayulita, Mérida.\n\nGratis para huéspedes. Dinero real para anfitriones. Link en bio.\n\n#rentavacacional #airbnbmexico #anfitrion #tulum #playadelcarmen #bacalar #holbox #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/split_screens_mx_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Ils ouvrent ceci. Vous gagnez cela.\n\nUn QR code sur votre porte. Les invités le scannent à l'arrivée — et reçoivent un guide local avec vos adresses préférées, restaurants avec vraies réductions, WiFi, instructions d'arrivée, contacts d'urgence. Tout dans leur langue. Gratuit pour eux, pour toujours.\n\nDe votre côté : chaque coupon utilisé vous paie. Chaque emplacement publicitaire vendu vous paie mensuellement. 70% arrive automatiquement sur votre compte.\n\n🌿 Conçu pour les locations saisonnières en Provence, Côte d'Azur, Bretagne, Alsace et toute zone touristique de France.\n\nGratuit pour les invités. Argent réel pour les hôtes. Lien en bio.\n\n#locationsaisonniere #airbnbhost #hote #provence #cotedazur #bretagne #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/split_screens_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Loro aprono questo. Tu guadagni quello.\n\nUn codice QR sulla tua porta. Gli ospiti lo scansionano all'arrivo — e ricevono una guida locale con i tuoi posti preferiti, ristoranti con sconti reali, WiFi, istruzioni di arrivo, contatti di emergenza. Tutto nella loro lingua. Gratis per loro, per sempre.\n\nDal tuo lato: ogni coupon riscattato ti paga. Ogni slot pubblicitario venduto ti paga mensilmente. Il 70% arriva automaticamente sul tuo conto.\n\n🍷 Pensato per affitti brevi in Toscana, Costiera Amalfitana, Lago di Como, Puglia e ogni zona turistica d'Italia.\n\nGratis per gli ospiti. Soldi veri per gli host. Link in bio.\n\n#affittibrevi #airbnbhost #host #toscana #amalfi #lagodicomo #puglia #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/split_screens_v1.png"
         ]
       }
     ]
