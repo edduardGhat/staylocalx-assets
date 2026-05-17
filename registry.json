@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.18",
+    "version": "1.19",
     "last_updated": "2026-05-17",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -671,6 +671,118 @@
         "caption": "I tuoi ospiti vogliono extra. Ma non li chiedono. ⚡\n\nLate checkout. Cestino colazione. Transfer aeroporto. Picnic. Chef privato a domicilio.\n\nVogliono tutto questo. Ma non chiedono — perché chiedere imbarazza.\n\nIl widget Extra e Servizi di Staylocalx mostra ogni offerta sul loro telefono, dentro la guida QR che hanno già aperto. Toccano. Si apre WhatsApp con te. Affare chiuso in 30 secondi.\n\nIl calcolo: 3 extra a soggiorno × 15€ in media × 28 soggiorni/anno = 1.260€/struttura/anno. Due strutture e hai aggiunto 420€/mese senza muovere un dito.\n\nTu monti il catalogo una volta. Incassi come preferisci — bonifico, contanti, Satispay. Nessuna piattaforma prende commissioni sugli extra.\n\nSalva questo post per la prossima volta che ti chiederai dove se ne sta andando il denaro.\n\nToscana. Costiera Amalfitana. Lago di Como. Cinque Terre. Sardegna. Sicilia. Dolomiti. Puglia.\n\n#affittibrevi #hostairbnb #proprietario #staylocalx #redditoextra #toscana #amalfi #cinqueterre #sardegna #sicilia",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/extras_revenue_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_ical_calendar": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Airbnb keeps 15% of every booking. Stop giving it back. ⚡\n\nEvery time a guest who already stayed with you books again through Airbnb, you lose 15%. Forever. Even though they already know your place, already have your number, already love your apartment.\n\nStaylocalx has a built-in feature most hosts haven't activated yet: the **live availability calendar inside your guest guide**.\n\nHow it works:\n\n1. Inside your QR guide, your guests see your real Airbnb / Booking calendar — green is free, red is taken\n2. They can plan their next stay without leaving the guide\n3. One tap → they message you direct\n4. You skip the 15% fee on every repeat booking\n\nSetup is brutal in how simple it is: copy your iCal link from Airbnb (Listing → Calendar → Availability → Export). Paste it in the Staylocalx app under Direct Booking Tools. Toggle on. Done in 30 seconds.\n\nWorks with Airbnb, Booking, Vrbo, any platform that exports iCal. Read-only sync — the calendar updates itself forever.\n\nFree. Already in your Staylocalx app. Activate it before your next booking.\n\nAvailable everywhere Staylocalx works — Spain, Italy, France, UK, USA, Mexico, UAE.\n\n#vacationrental #shorttermrental #airbnbhost #directbookings #hosttips #staylocalx #propertyowner #avoidotafees #hospitalitytech #travelmarketing",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439457327053",
+        "name": "@staylocalx.app",
+        "caption": "How to set up the live availability calendar — 30 seconds, no kidding. 📅\n\nMost hosts pay Airbnb 15% commission on EVERY booking. Including the repeat guests who already love your place. That's leaked money.\n\nThis tutorial walks through the iCal calendar feature inside your Staylocalx app — the one that shows your real-time availability to guests scanning your QR guide, so when they want to come back they can book direct.\n\nSteps recap:\n\n1. Open your Staylocalx app → your property → Direct Booking Tools\n2. Toggle \"Show availability calendar\" ON\n3. Go to Airbnb: Listing → Calendar → Availability → Export calendar\n4. Copy the iCal URL\n5. Paste it in the Staylocalx app\n6. Save\n\nThat's it. The calendar updates automatically forever. Works with Airbnb, Booking, Vrbo, Hostaway — any platform that exports iCal (which is all of them).\n\nRead-only: it imports availability into your guide. It does NOT push direct bookings back to Airbnb — guests contact you directly via WhatsApp.\n\nSave this for when you next open the app.\n\n#staylocalx #staylocalxtutorial #directbookings #vacationrentaltech #hosttutorial #airbnbtips #shorttermrentaltech #propertytech #hosttips #vacationrental",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/app/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/app/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/app/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/app/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/app/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Airbnb keeps 15% of every booking. Stop giving it back. ⚡\n\nEvery time a guest who already stayed with you books again through Airbnb, you lose 15%. Forever. Even though they already love your place, already have your number, already know exactly where the wifi router is.\n\nStaylocalx has a built-in feature most hosts haven't activated yet: the **live availability calendar inside your guest guide**.\n\nHow it works:\n\n1. Inside your QR guide, your guests see your real Airbnb / Vrbo calendar — green is free, red is taken\n2. They can plan their next stay without leaving the guide\n3. One tap → they message you direct\n4. You skip the 15% fee on every repeat booking\n\nSetup takes 30 seconds: copy your iCal link from Airbnb (Listing → Calendar → Availability → Export). Paste it in the Staylocalx app under Direct Booking Tools. Toggle on. Done.\n\nWorks with Airbnb, Vrbo, Booking, any platform that exports iCal. Read-only sync — the calendar updates itself forever.\n\nFree. Already in your Staylocalx app. Activate it before your next booking.\n\nHamptons. Napa. Smoky Mountains. Florida Keys. Catskills. Lake Tahoe.\n\n#vacationrental #shorttermrental #airbnbhost #vrbohost #directbookings #hosttips #staylocalx #vacationrentalowner #hamptons #avoidotafees",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Airbnb keeps 15% of every booking. Stop giving it back. ⚡\n\nEvery time a guest who already stayed with you books again through Airbnb, you lose 15%. Forever. Even though they already love your place, already have your number, already know which window sticks.\n\nStaylocalx has a built-in feature most hosts haven't activated yet: the **live availability calendar inside your guest guide**.\n\nHow it works:\n\n1. Inside your QR guide, your guests see your real Airbnb / Booking calendar — green is free, red is taken\n2. They can plan their next stay without leaving the guide\n3. One tap → they message you direct\n4. You skip the 15% fee on every repeat booking\n\nSetup is dead simple: copy your iCal link from Airbnb (Listing → Calendar → Availability → Export). Paste it in the Staylocalx app under Direct Booking Tools. Toggle on. Done in 30 seconds.\n\nWorks with Airbnb, Booking, Vrbo, any platform that exports iCal. Read-only sync — the calendar updates itself forever.\n\nFree. Already in your Staylocalx app. Activate it before your next booking.\n\nCotswolds. Lake District. Cornwall. Scottish Highlands. Norfolk Coast. Peak District.\n\n#holidaylet #airbnbhost #shorttermlet #directbookings #staylocalx #propertyowner #cotswolds #lakedistrict #avoidotafees #hospitalitybusiness",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Airbnb keeps 15% of every booking. Stop giving it back. ⚡\n\nEvery time a guest who already stayed with you books again through Airbnb, you lose 15%. Forever. Even though they already love your place and already have your number.\n\nStaylocalx has a built-in feature most hosts haven't activated yet: the **live availability calendar inside your guest guide**.\n\nHow it works:\n\n1. Inside your QR guide, your guests see your real Airbnb / Booking calendar — green is free, red is taken\n2. They can plan their next stay without leaving the guide\n3. One tap → they message you direct\n4. You skip the 15% fee on every repeat booking\n\nSetup is 30 seconds: copy your iCal link from Airbnb (Listing → Calendar → Availability → Export). Paste it in the Staylocalx app under Direct Booking Tools. Toggle on. Done.\n\nWorks with Airbnb, Booking, Vrbo, any platform that exports iCal. Read-only sync — the calendar updates itself forever.\n\nFree. Already in your Staylocalx app. Activate it before your next booking.\n\nDubai Marina. Palm Jumeirah. Downtown Dubai. JBR. Abu Dhabi Corniche. Yas Island.\n\n#dubairentals #shorttermrental #propertyowner #staylocalx #directbookings #dubaibusiness #vacationrental #luxuryrental #palmjumeirah #avoidotafees",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Airbnb se queda el 15% de cada reserva. Deja de regalárselo. ⚡\n\nCada vez que un huésped que ya se alojó contigo vuelve a reservar por Airbnb, pierdes el 15%. Para siempre. Aunque ya conozca tu casa, ya tenga tu teléfono, ya sepa dónde está el router del WiFi.\n\nStaylocalx tiene una funcionalidad que la mayoría de hosts no han activado todavía: el **calendario de disponibilidad en directo dentro de tu guía de huéspedes**.\n\nCómo funciona:\n\n1. Dentro de tu guía QR, tus huéspedes ven tu calendario real de Airbnb / Booking — verde libre, rojo ocupado\n2. Pueden planificar su próxima estancia sin salir de la guía\n3. Un toque → te escriben directo\n4. Te ahorras el 15% en cada reserva repetida\n\nConfigurarlo es ridículo de fácil: copia tu link iCal de Airbnb (Anuncio → Calendario → Disponibilidad → Exportar). Pégalo en la app Staylocalx en Direct Booking Tools. Activa el toggle. 30 segundos.\n\nFunciona con Airbnb, Booking, Vrbo, cualquier plataforma que exporte iCal. Sincronización solo lectura — el calendario se actualiza solo para siempre.\n\nGratis. Ya está en tu app Staylocalx. Actívalo antes de tu próxima reserva.\n\nMallorca. Costa Brava. Costa del Sol. Canarias. Sierra Nevada. Madrid. Valencia. Cádiz.\n\n#alquilervacacional #anfitrionairbnb #propietario #staylocalx #reservasdirectas #mallorca #costabrava #andalucia #canarias #ahorrarcomisiones",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Airbnb se queda el 15% de cada reserva. Deja de regalárselo. ⚡\n\nCada vez que un huésped que ya se hospedó contigo vuelve a reservar por Airbnb, pierdes el 15%. Para siempre. Aunque ya conozca tu casa, ya tenga tu celular, ya sepa dónde está el router del WiFi.\n\nStaylocalx tiene una funcionalidad que la mayoría de hosts no han activado todavía: el **calendario de disponibilidad en vivo dentro de tu guía**.\n\nCómo funciona:\n\n1. Dentro de tu guía QR, tus huéspedes ven tu calendario real de Airbnb / Booking — verde libre, rojo ocupado\n2. Pueden planificar su próxima estancia sin salir de la guía\n3. Un toque → te escriben directo\n4. Te ahorras el 15% en cada reserva repetida\n\nConfigurarlo es ridículo de fácil: copia tu link iCal de Airbnb (Anuncio → Calendario → Disponibilidad → Exportar). Pégalo en la app Staylocalx en Direct Booking Tools. Activa el toggle. 30 segundos.\n\nFunciona con Airbnb, Booking, Vrbo, cualquier plataforma que exporte iCal. Sincronización solo lectura — el calendario se actualiza solo para siempre.\n\nGratis. Ya está en tu app Staylocalx. Actívalo antes de tu próxima reserva.\n\nTulum. Playa del Carmen. Mérida. Sayulita. San Miguel de Allende. Valle de Guadalupe. CDMX.\n\n#rentavacacional #anfitrion #propietario #staylocalx #reservasdirectas #tulum #playadelcarmen #sayulita #merida #ahorrarcomisiones",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Airbnb prend 15% de chaque réservation. Arrêtez de leur en faire cadeau. ⚡\n\nChaque fois qu'un voyageur qui a déjà séjourné chez vous réserve à nouveau via Airbnb, vous perdez 15%. Pour toujours. Même s'il connaît déjà votre logement, a déjà votre numéro, sait déjà où est le routeur WiFi.\n\nStaylocalx a une fonctionnalité que la plupart des hôtes n'ont pas encore activée : le **calendrier de disponibilité en direct dans votre guide d'accueil**.\n\nComment ça marche :\n\n1. Dans votre guide QR, vos voyageurs voient votre vrai calendrier Airbnb / Booking — vert libre, rouge occupé\n2. Ils peuvent planifier leur prochain séjour sans quitter le guide\n3. Un tap → ils vous écrivent en direct\n4. Vous économisez les 15% sur chaque réservation répétée\n\nLa config est ridiculement simple : copiez votre lien iCal d'Airbnb (Annonce → Calendrier → Disponibilité → Exporter). Collez-le dans l'app Staylocalx sous Direct Booking Tools. Activez le toggle. 30 secondes.\n\nMarche avec Airbnb, Booking, Vrbo, toute plateforme qui exporte iCal. Synchro en lecture seule — le calendrier se met à jour seul pour toujours.\n\nGratuit. Déjà dans votre app Staylocalx. Activez-le avant votre prochaine réservation.\n\nProvence. Côte d'Azur. Alsace. Pays Basque. Bretagne. Bourgogne. Île de Ré.\n\n#locationsaisonniere #hoteairbnb #proprietaire #staylocalx #reservationsdirectes #provence #cotedazur #alsace #economiserota #gitesdefrance",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/ical_v1/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Airbnb si prende il 15% di ogni prenotazione. Smetti di regalarglielo. ⚡\n\nOgni volta che un ospite che è già stato da te prenota di nuovo via Airbnb, perdi il 15%. Per sempre. Anche se conosce già la tua casa, ha già il tuo numero, sa già dov'è il router del WiFi.\n\nStaylocalx ha una funzione che la maggior parte degli host non ha ancora attivato: il **calendario di disponibilità live dentro la tua guida ospiti**.\n\nCome funziona:\n\n1. Dentro la tua guida QR, gli ospiti vedono il tuo vero calendario Airbnb / Booking — verde libero, rosso occupato\n2. Possono pianificare il prossimo soggiorno senza uscire dalla guida\n3. Un tocco → ti scrivono diretto\n4. Ti risparmi il 15% su ogni prenotazione ripetuta\n\nConfigurarlo è ridicolmente facile: copia il tuo link iCal da Airbnb (Annuncio → Calendario → Disponibilità → Esporta). Incollalo nell'app Staylocalx in Direct Booking Tools. Attiva il toggle. 30 secondi.\n\nFunziona con Airbnb, Booking, Vrbo, qualsiasi piattaforma che esporta iCal. Sync in sola lettura — il calendario si aggiorna da solo per sempre.\n\nGratis. Già nella tua app Staylocalx. Attivalo prima della prossima prenotazione.\n\nToscana. Costiera Amalfitana. Lago di Como. Cinque Terre. Sardegna. Sicilia. Dolomiti. Puglia.\n\n#affittibrevi #hostairbnb #proprietario #staylocalx #prenotazionidirette #toscana #amalfi #cinqueterre #sardegna #risparmiocommissioni",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide05.png"
         ]
       }
     ]
