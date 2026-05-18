@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.19",
-    "last_updated": "2026-05-17",
+    "version": "1.20",
+    "last_updated": "2026-05-18",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -783,6 +783,106 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide03.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide04.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ical_v1/slide05.png"
+        ]
+      }
+    ]
+  },
+  "/publish_case_ed_330": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Same questions, every check-in. Same recommendations to the same restaurants. For years.\n\nThen I started getting paid for them. €330 last month, from a single apartment in Denia.\n\nLocal businesses pay to appear in your guest guide. You earn from every visit. GPS-verified. Hosts keep 70%.\n\nFree for hosts. Link in bio.\n\n#vacationrental #airbnbhost #hosting #denia #vrbo #shorttermrental #passiveincome #hostlife #propertyowner #hostingtips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Same questions, every check-in. Same recommendations to the same restaurants. For years.\n\nThen I started getting paid for them. $330 last month, from a single apartment in Denia.\n\nLocal businesses pay to appear in your guest guide. You earn from every visit. GPS-verified. Hosts keep 70%.\n\nFree for hosts. Link in bio.\n\n#vacationrental #airbnbhost #vrbohost #hosting #hamptons #napavalley #passiveincome #shorttermrental #stroperator #hostingtips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Same questions, every check-in. Same recommendations to the same restaurants. For years.\n\nThen I started getting paid for them. £265 last month, from a single apartment in Denia.\n\nLocal businesses pay to appear in your guest guide. You earn from every visit. GPS-verified. Hosts keep 70%.\n\nFree for hosts. Link in bio.\n\n#holidaylet #airbnbhostuk #hosting #cotswolds #lakedistrict #vacationrental #passiveincome #propertyowner #hostlife #ukhost",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Same questions, every check-in. Same recommendations to the same restaurants. For years.\n\nThen I started getting paid for them. AED 1,320 last month, from a single apartment in Denia.\n\nLocal businesses pay to appear in your guest guide. You earn from every visit. GPS-verified. Hosts keep 70%.\n\nFree for hosts. Link in bio.\n\n#dubai #abudhabi #holidayrental #airbnbhost #propertyowner #passiveincome #uaeproperty #shorttermrental #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Las mismas preguntas en cada check-in. Las mismas recomendaciones, a los mismos restaurantes. Durante años.\n\nHasta que empecé a cobrar por ellas. €330 el mes pasado, desde un solo apartamento en Denia.\n\nLos negocios locales pagan por aparecer en tu guía. Tú ganas con cada visita. Verificado por GPS. El host se queda el 70%.\n\nGratis para hosts. Link en bio.\n\n#alquilervacacional #airbnbhost #anfitrion #denia #mallorca #costabrava #alquilerturistico #ingresopasivo #propietarios #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Las mismas preguntas en cada check-in. Las mismas recomendaciones, a los mismos restaurantes. Por años.\n\nHasta que empecé a cobrar por ellas. $6,600 MXN el mes pasado, desde un solo departamento en Denia, España.\n\nLos negocios locales pagan por aparecer en tu guía. Tú ganas con cada visita. Verificado por GPS. El host se queda el 70%.\n\nGratis para hosts. Link en bio.\n\n#rentavacacional #airbnbhost #anfitrion #tulum #playadelcarmen #cdmx #rentaturistica #ingresopasivo #propietarios",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Les mêmes questions à chaque arrivée. Les mêmes recommandations, aux mêmes restaurants. Pendant des années.\n\nJusqu'à ce que je commence à être payé pour ça. 330 € le mois dernier, avec un seul appartement à Denia.\n\nLes commerces locaux paient pour apparaître dans votre guide. Vous gagnez sur chaque visite. Vérifié par GPS. L'hôte garde 70%.\n\nGratuit pour les hôtes. Lien en bio.\n\n#locationsaisonniere #airbnbhote #hote #provence #cotedazur #locationvacances #revenupassif #conciergerie #proprietaire",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/case_ed_330/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Le stesse domande a ogni check-in. Gli stessi consigli, agli stessi ristoranti. Per anni.\n\nFinché non ho iniziato a essere pagato per quei consigli. 330 € il mese scorso, da un solo appartamento a Denia.\n\nLe attività locali pagano per apparire nella tua guida. Tu guadagni a ogni visita. Verificato via GPS. L'host tiene il 70%.\n\nGratis per gli host. Link in bio.\n\n#casevacanze #airbnbhost #host #toscana #amalfi #affittibrevi #renditapassiva #proprietario #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide05.png"
         ]
       }
     ]
