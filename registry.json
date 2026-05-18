@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.20",
+    "version": "1.21",
     "last_updated": "2026-05-18",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -883,6 +883,106 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide03.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide04.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/case_ed_330/slide05.png"
+        ]
+      }
+    ]
+  },
+  "/publish_pay_vs_charge": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Every other digital guidebook for hosts charges you €15–30 per property, per month.\n\nStaylocalx flipped that. The guide is free for hosts forever — and local businesses pay you to appear inside it. Every guest visit you generate earns you 70%.\n\nNet change for one apartment in year one: +€4,200 compared to paying for a standard guide.\n\nBigger property = more guests = more earnings.\n\nFree forever. Link in bio.\n\n#vacationrental #airbnbhost #hosting #shorttermrental #propertyowner #passiveincome #hostingtips #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Every other digital guidebook for hosts charges you $15–30 per property, per month.\n\nStaylocalx flipped that. The guide is free for hosts forever — and local businesses pay you to appear inside it. Every guest visit you generate earns you 70%.\n\nNet change for one apartment in year one: +$4,200 compared to paying for a standard guide.\n\nBigger property = more guests = more earnings.\n\nFree forever. Link in bio.\n\n#vacationrental #airbnbhost #vrbohost #hosting #shorttermrental #passiveincome #hostingtips #stroperator",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Every other digital guidebook for hosts charges you £15–25 per property, per month.\n\nStaylocalx flipped that. The guide is free for hosts forever — and local businesses pay you to appear inside it. Every guest visit you generate earns you 70%.\n\nNet change for one apartment in year one: +£3,380 compared to paying for a standard guide.\n\nBigger property = more guests = more earnings.\n\nFree forever. Link in bio.\n\n#holidaylet #airbnbhostuk #hosting #vacationrental #propertyowner #ukhost #passiveincome #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Every other digital guidebook for hosts charges you AED 60–120 per property, per month.\n\nStaylocalx flipped that. The guide is free for hosts forever — and local businesses pay you to appear inside it. Every guest visit you generate earns you 70%.\n\nNet change for one apartment in year one: +AED 16,800 compared to paying for a standard guide.\n\nBigger property = more guests = more earnings.\n\nFree forever. Link in bio.\n\n#dubai #abudhabi #holidayrental #airbnbhost #propertyowner #passiveincome #uaeproperty #shorttermrental",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Todas las guías digitales para hosts te cobran €15–30 por propiedad, al mes.\n\nStaylocalx le dio la vuelta. La guía es gratis para hosts para siempre — y los negocios locales pagan por aparecer dentro. Cada visita de un huésped que generes te paga el 70%.\n\nCambio neto para un apartamento en el primer año: +€4.200 comparado con pagar una guía estándar.\n\nMás grande la propiedad = más huéspedes = más ingresos.\n\nGratis para siempre. Link en bio.\n\n#alquilervacacional #airbnbhost #anfitrion #alquilerturistico #ingresopasivo #propietarios #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Todas las guías digitales para hosts te cobran $300–600 MXN por propiedad, al mes.\n\nStaylocalx le dio la vuelta. La guía es gratis para hosts para siempre — y los negocios locales pagan por aparecer dentro. Cada visita de un huésped que generes te paga el 70%.\n\nCambio neto para un departamento en el primer año: +$84,000 MXN comparado con pagar una guía estándar.\n\nMás grande la propiedad = más huéspedes = más ingresos.\n\nGratis para siempre. Link en bio.\n\n#rentavacacional #airbnbhost #anfitrion #tulum #playadelcarmen #cdmx #ingresopasivo #propietarios",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Tous les autres guides numériques pour hôtes vous facturent 15–30 € par logement, par mois.\n\nStaylocalx a inversé ça. Le guide est gratuit pour les hôtes à vie — et les commerces locaux paient pour y apparaître. Chaque visite d'invité que vous générez vous rapporte 70%.\n\nChangement net pour un appartement la première année : +4 200 € par rapport à payer un guide standard.\n\nPlus grand le logement = plus d'invités = plus de revenus.\n\nGratuit à vie. Lien en bio.\n\n#locationsaisonniere #airbnbhote #hote #provence #cotedazur #locationvacances #revenupassif #conciergerie",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/pay_vs_charge/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Tutte le altre guide digitali per host ti fanno pagare 15–30 € per proprietà, al mese.\n\nStaylocalx ha ribaltato il modello. La guida è gratis per gli host per sempre — e le attività locali pagano per apparire all'interno. Ogni visita di un ospite che generi ti dà il 70%.\n\nCambiamento netto per un appartamento nel primo anno: +4.200 € rispetto a pagare una guida standard.\n\nPiù grande la proprietà = più ospiti = più guadagno.\n\nGratis per sempre. Link in bio.\n\n#casevacanze #airbnbhost #host #toscana #amalfi #affittibrevi #renditapassiva #proprietario",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide05.png"
         ]
       }
     ]
