@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.21",
-    "last_updated": "2026-05-18",
+    "version": "1.22",
+    "last_updated": "2026-05-19",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -983,6 +983,74 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide03.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide04.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/pay_vs_charge/slide05.png"
+        ]
+      }
+    ]
+  },
+  "/publish_p1_01_villa": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Picture a hillside retreat — somewhere between Tuscany and the Côte d'Azur. 🌅\n\nThe owner of a place like this doesn't change anything about how they host. They don't raise the nightly rate. They don't take on more bookings.\n\nThey just recommend what they'd recommend anyway — the restaurants down the road, the wineries up the hill, the boat trip their last guests still talk about.\n\nThe difference? Those recommendations now pay them around €1,840 a month. Verified by GPS. Paid automatically. 70% stays with them.\n\nWe're showing how, one hidden host at a time.\n\nLink in bio.\n\n#vacationrental #villarental #hiddenhosts #passiveincome #shorttermrental #vacationhomeowner #hostlife #travelinspo #mediterraneanlifestyle #europetravel #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Picture a hillside villa in Napa, the Hamptons, or up the Pacific coast. 🌅\n\nThe owner of a place like this doesn't change anything about how they host. They don't raise the nightly rate. They don't add more turnovers.\n\nThey just recommend what they'd recommend anyway — the winery down the road, the seafood place by the dunes, the trail their guests still text them about.\n\nThe difference? Those recommendations now pay them around $1,840 a month. Verified by GPS. Paid automatically. 70% stays with them.\n\nWe're showing how, one hidden host at a time.\n\nLink in bio.\n\n#vacationrental #vrbo #airbnbhost #hiddenhosts #passiveincome #shorttermrental #vacationhomeowner #hamptons #napavalley #californiavibes #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Picture a stone cottage in the Cotswolds. A lakeside retreat in the Lake District. A barn conversion in Cornwall. 🌅\n\nThe owner doesn't change anything about how they host. They don't put the nightly rate up. They don't take on more bookings.\n\nThey just recommend what they'd recommend anyway — the pub down the lane, the falconry experience over the hill, the bakery their guests can't stop talking about.\n\nThe difference? Those recommendations now pay them around £1,470 a month. Verified by GPS. Paid automatically. 70% stays with them.\n\nWe're showing how, one hidden host at a time.\n\nLink in bio.\n\n#holidaylet #cotswolds #lakedistrict #cornwall #ukstaycations #hiddenhosts #passiveincome #shorttermrental #airbnbukhost #vacationrentalowner #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Picture a private villa on Palm Jumeirah. A desert escape outside Abu Dhabi. A penthouse with a view over Dubai Marina. 🌅\n\nThe owner of a place like this doesn't change anything about how they host. They don't raise the nightly rate. They don't add more turnovers.\n\nThey just recommend what they'd recommend anyway — the chef's table downtown, the private dune experience, the spa their guests still send thank-you notes about.\n\nThe difference? Those recommendations now pay them around AED 7,360 a month. GPS-verified. Paid automatically. 70% stays with them.\n\nWe're showing how, one hidden host at a time.\n\nLink in bio.\n\n#dubai #abudhabi #luxuryvilla #shorttermrental #vacationrental #hiddenhosts #passiveincome #propertyowneruae #luxurytravel #middleeast #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Imagina una finca en Mallorca, una villa en la Costa Brava, una casa con vistas en la Sierra de Tramuntana. 🌅\n\nEl dueño de un sitio así no cambia nada en cómo gestiona la propiedad. No sube el precio por noche. No mete más reservas al mes.\n\nSolo recomienda lo que recomendaría de todas formas — el restaurante de toda la vida, la bodega del pueblo de al lado, la cala que sus huéspedes siguen recordando un año después.\n\n¿La diferencia? Esas recomendaciones le dejan ahora unos €1,840 al mes. Verificadas por GPS. Cobradas en automático. El 70% se queda con él.\n\nEstamos enseñando cómo, un host oculto cada vez.\n\nLink en la bio.\n\n#alquilervacacional #mallorca #costabrava #ibiza #andalucia #propietarioairbnb #ingresospasivos #hostsocultos #alquilerturistico #vacacionesenespaña #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Imagínate una villa en Tulum, una casa con alberca en Playa del Carmen, un retiro en la Riviera Maya. 🌅\n\nEl dueño de un lugar así no le cambia nada a cómo renta su propiedad. No sube el precio por noche. No mete más reservaciones al mes.\n\nSolo recomienda lo que ya recomendaría — el restaurante de mariscos de toda la vida, el cenote escondido, la experiencia con el chamán que sus huéspedes siguen contando seis meses después.\n\n¿La diferencia? Esas recomendaciones le dejan unos $36,800 MXN al mes. Verificadas por GPS. Pagadas en automático. El 70% se queda con él.\n\nEstamos enseñando cómo, un host oculto a la vez.\n\nLink en la bio.\n\n#rentavacacional #tulum #playadelcarmen #rivieramaya #cancun #airbnbmexico #ingresospasivos #hostsocultos #rentaairbnb #mexicotravel #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Imaginez une bastide en Provence, une villa sur la Côte d'Azur, un mas dans le Luberon. 🌅\n\nLe propriétaire d'un endroit comme celui-ci ne change rien à la façon dont il loue. Il n'augmente pas le tarif par nuit. Il ne rajoute pas de réservations.\n\nIl recommande simplement ce qu'il recommanderait de toute façon — le restaurant du village d'à côté, la cave familiale dans les collines, la balade en bateau dont ses voyageurs parlent encore l'année suivante.\n\nLa différence ? Ces recommandations lui rapportent maintenant environ €1,840 par mois. Vérifiées par GPS. Payées automatiquement. 70 % lui reviennent.\n\nNous le montrons, un hôte caché à la fois.\n\nLien en bio.\n\n#locationsaisonniere #provence #cotedazur #luberon #airbnbfrance #revenuspassifs #hotescaches #locationvacances #voyagefrance #suddelafrance #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p1_01_villa.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Immagina una villa in Toscana, un casale in Val d'Orcia, una casa con vista sulla Costiera Amalfitana. 🌅\n\nIl proprietario di un posto così non cambia niente nel modo in cui affitta. Non alza il prezzo a notte. Non aggiunge prenotazioni.\n\nConsiglia semplicemente quello che consiglierebbe comunque — la trattoria del paese a fianco, la cantina familiare sulle colline, l'esperienza in barca di cui i suoi ospiti continuano a parlare un anno dopo.\n\nLa differenza? Quei consigli ora gli portano circa €1,840 al mese. Verificati con GPS. Pagati in automatico. Il 70 % resta a lui.\n\nLo stiamo mostrando, un host nascosto alla volta.\n\nLink in bio.\n\n#affittibrevi #toscana #costieraamalfitana #cinqueterre #valdorcia #airbnbitalia #redditipassivi #hostnascosti #casevacanze #italiadascoprire #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p1_01_villa.png"
         ]
       }
     ]
