@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.23",
+    "version": "1.24",
     "last_updated": "2026-05-20",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -1105,6 +1105,110 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p3_01_haunted_s5.png"
         ]
       },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Chat real. Caldera real. Huéspedes reales en una casa rural mallorquina que se convirtieron en su equipo de marketing accidental. 🫠\n\nLo más loco no es el mensaje de las 2 AM. Es lo que pasó después.\n\nSer host no es solo toallas limpias y una buena contraseña de Wi-Fi. Es estar ahí cuando algo a las 2 de la madrugada necesita explicación — y convertir un momento de pánico en una historia que vale la pena contar en el siguiente brunch.\n\nTres de esos amigos reservaron la casa al mes siguiente. Ninguno mencionó fantasmas.\n\nGuarda este post para la próxima vez que un huésped te mande algo completamente inesperado.\n\nLink en la bio.\n\n#hostlife #alquilervacacional #mallorca #costabrava #ibiza #andalucia #propietarioairbnb #historiasdehost #hostsocultos #alquilerturistico #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p3_01_haunted_s5.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Chat real. Calentador real. Huéspedes reales en una hacienda yucateca que se convirtieron en su equipo de marketing accidental. 🫠\n\nLo más loco no es el mensaje de las 2 AM. Es lo que pasó después.\n\nSer host no es solo toallas limpias y un buen WiFi. Es estar ahí cuando algo a las 2 de la madrugada necesita explicación — y convertir un momento de pánico en una historia que vale la pena contar al día siguiente.\n\nTres de esos amigos rentaron la misma propiedad al mes siguiente. Ninguno mencionó fantasmas.\n\nGuarda este post para la próxima vez que un huésped te mande algo completamente inesperado.\n\nLink en la bio.\n\n#rentavacacional #tulum #playadelcarmen #rivieramaya #yucatan #cancun #airbnbmexico #historiasdehost #hostsocultos #rentaairbnb #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p3_01_haunted_s5.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Vrai chat. Vraie chaudière. Voyageurs dans un mas provençal devenus l'équipe marketing accidentelle du logement. 🫠\n\nLe plus dingue, ce n'est pas le message à 2h14. C'est ce qui arrive après.\n\nÊtre hôte, ce n'est pas seulement des serviettes propres et un bon mot de passe Wi-Fi. C'est être présent quand quelque chose à 2h du matin a besoin d'explications — et transformer un moment de panique en histoire qu'on raconte au brunch.\n\nTrois de ces amis ont réservé le mas le mois suivant. Aucun n'a mentionné les fantômes.\n\nGarde ce post pour la prochaine fois qu'un voyageur t'envoie quelque chose de complètement inattendu.\n\nLien en bio.\n\n#hotesfrance #locationsaisonniere #provence #cotedazur #luberon #airbnbfrance #histoiresdhotes #revenuspassifs #hotescaches #voyagefrance #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p3_01_haunted_s5.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Chat vera. Caldaia vera. Ospiti in un casale toscano diventati il team marketing accidentale della casa. 🫠\n\nLa cosa più assurda non è il messaggio delle 02:14. È quello che è successo dopo.\n\nFare l'host non è solo asciugamani puliti e una buona password Wi-Fi. È esserci quando qualcosa alle 2 di notte ha bisogno di spiegazioni — e trasformare un momento di panico in una storia da raccontare al brunch.\n\nTre di quegli amici hanno prenotato il casale il mese dopo. Nessuno ha menzionato i fantasmi.\n\nSalva questo post per la prossima volta che un ospite ti scrive qualcosa di completamente inaspettato.\n\nLink in bio.\n\n#host #affittibrevi #toscana #valdorcia #cinqueterre #airbnbitalia #storiedihost #redditipassivi #hostnascosti #italiadascoprire #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s5.png"
+        ]
+      }
+    ]
+  },
+  "/publish_p3_01_haunted_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Real chat. Real boiler. Real guests who became this farmhouse's accidental marketing team. 🫠\n\nThe wildest part isn't the 2 AM message. It's what happened after.\n\nHosting isn't just clean towels and a good Wi-Fi password. It's being there when something at 2 AM needs explaining — and turning a panic moment into a story worth retelling at brunch.\n\nThree of those friends booked the property the following month. None of them mentioned ghosts.\n\nSave this for the next time a guest sends you something completely unexpected.\n\nLink in bio.\n\n#hostlife #vacationrental #shorttermrental #airbnbhost #hosting #propertyowner #truehoststories #hiddenhosts #hostingtips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p3_01_haunted_s5.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Real chat. Real boiler. Real guests in a Catskills farmhouse who became its accidental marketing team. 🫠\n\nThe wildest part isn't the 2 AM message. It's what happened after.\n\nHosting isn't just clean towels and a Wi-Fi password. It's being there at 2 AM when something needs explaining — and turning a panic moment into a story worth retelling at brunch.\n\nThree of those friends booked the property the following month. None of them mentioned ghosts.\n\nSave this for the next time a guest sends you something completely unexpected.\n\nLink in bio.\n\n#airbnbhost #vrbo #hostlife #shorttermrental #vacationrentalowner #catskills #hudsonvalley #vermontstay #truehoststories #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p3_01_haunted_s5.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Real chat. Real boiler. Real guests in a Cotswolds cottage who became its accidental marketing team. 🫠\n\nThe wildest part isn't the 2 AM message. It's what happened after.\n\nHosting isn't just clean towels and a Wi-Fi password. It's being there at 2 AM when something needs explaining — and turning a panic moment into a story worth retelling over coffee.\n\nThree of those friends booked the property the following month. None of them mentioned ghosts.\n\nSave this for the next time a guest sends you something completely unexpected.\n\nLink in bio.\n\n#holidaylet #cotswolds #lakedistrict #cornwall #ukstaycations #airbnbukhost #shorttermrental #truehoststories #hiddenhosts #vacationrentalowner #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p3_01_haunted_s5.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Real chat. Real AC unit. Real guests in a heritage villa outside Abu Dhabi who became its accidental marketing team. 🫠\n\nThe wildest part isn't the 2 AM message. It's what happened after.\n\nHosting isn't just clean towels and a Wi-Fi password. It's being there at 2 AM when something needs explaining — and turning a panic moment into a story worth retelling.\n\nThree of those friends booked the property the following month. None of them mentioned ghosts.\n\nSave this for the next time a guest sends you something completely unexpected.\n\nLink in bio.\n\n#dubai #abudhabi #uaeluxury #vacationrental #shorttermrental #propertyowneruae #truehoststories #hiddenhosts #middleeasttravel #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p3_01_haunted_s1.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p3_01_haunted_s2.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p3_01_haunted_s3.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p3_01_haunted_s4.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p3_01_haunted_s5.png"
+        ]
+      }
+    ]
+  },
+  "/publish_p3_01_haunted_b": {
+    "targets": [
       {
         "ig_id": "17841441959099697",
         "name": "@staylocalx.es",
