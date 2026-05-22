@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.25",
+    "version": "1.26",
     "last_updated": "2026-05-22",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -1275,6 +1275,74 @@
         "caption": "This week in Mallorca: 200+ luxury villas held hostage by tenants who stopped paying and now demand a ransom to leave. 🏚️\n\nThe pattern is always the same: they sign a long lease, move in, stop paying. And eviction can take years.\n\nHere's the detail almost nobody points out:\n\nThis happens to long-term rentals. Almost never to short-stay vacation rentals.\n\nWhy? Because a guest who books 4 nights doesn't become a tenant with squatting rights. They arrive Friday, leave Monday. Rotation, not roots.\n\nIt's no coincidence that more owners in areas like Son Vida and Portals are shifting from long-term tenants to short-stay guests. Less risk. More control. And, done right, more income.\n\nIf you're already in short-stay, the next step is professionalizing the guest experience (and monetizing it). Link in bio.\n\n#vacationrental #mallorca #spainproperty #shorttermrental #propertyinvestment #airbnbhost #realestate #spain #hostlife #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/news_okupas_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_ht_01_guide": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#hostlife #vacationrental #shorttermrental #airbnbhost #hosting #hiddenhosts #hosttruths #travel #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#airbnbhost #vrbo #hostlife #shorttermrental #vacationrentalowner #hosttruths #travel #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#holidaylet #ukstaycations #hostlife #shorttermrental #airbnbukhost #hosttruths #travel #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#dubai #abudhabi #vacationrental #shorttermrental #propertyowneruae #hosttruths #luxurytravel #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Te preguntan dónde comer antes de deshacer la maleta. Qué hacer antes de instalarse.\n\nTodo host ya hace de guía turística. La única pregunta es si ese papel trabaja para ti — o solo te cuesta tiempo.\n\nLas mejores estancias empiezan con las mejores recomendaciones. Y tú ya las das. 🗺️\n\nLink en la bio.\n\n#alquilervacacional #hostlife #propietarioairbnb #alquilerturistico #verdadesdehost #hostsocultos #viajes #mallorca #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Te preguntan dónde comer antes de deshacer la maleta. Qué hacer antes de instalarse.\n\nTodo host ya hace de guía. La única pregunta es si ese papel trabaja para ti — o solo te cuesta tiempo.\n\nLas mejores estancias empiezan con las mejores recomendaciones. Y tú ya las das. 🗺️\n\nLink en la bio.\n\n#rentavacacional #hostlife #airbnbmexico #rentaairbnb #verdadesdehost #hostsocultos #viajes #tulum #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Ils demandent où manger avant même de défaire leurs valises. Où aller avant de s'installer.\n\nChaque hôte joue déjà au guide. La seule question : ce rôle travaille-t-il pour vous — ou vous coûte-t-il juste du temps ?\n\nLes meilleurs séjours commencent par les meilleures recommandations. Vous les donnez déjà. 🗺️\n\nLien en bio.\n\n#locationsaisonniere #hotesfrance #airbnbfrance #veritesdhote #hotescaches #voyage #provence #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Chiedono dove mangiare prima di disfare le valigie. Dove andare prima di sistemarsi.\n\nOgni host fa già da guida. L'unica domanda è se quel ruolo lavora per te — o ti costa solo tempo.\n\nI soggiorni migliori iniziano dai consigli migliori. E tu li dai già. 🗺️\n\nLink in bio.\n\n#affittibrevi #host #airbnbitalia #veritadahost #hostnascosti #viaggi #toscana #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ht_01_guide.png"
         ]
       }
     ]
