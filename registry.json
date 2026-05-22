@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.24",
-    "last_updated": "2026-05-20",
+    "version": "1.25",
+    "last_updated": "2026-05-22",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -1255,6 +1255,26 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s3.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s4.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p3_01_haunted_s5.png"
+        ]
+      }
+    ]
+  },
+  "/publish_news_okupas": {
+    "targets": [
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Esta semana en Mallorca: más de 200 villas de lujo \"secuestradas\" por inquilinos que dejaron de pagar y ahora exigen un rescate para marcharse. 🏚️\n\nEl patrón es siempre el mismo: alquilan con contratos largos, se instalan, dejan de pagar. Y desalojar puede tardar años.\n\nAquí está el detalle que casi nadie comenta:\n\nEsto le pasa al alquiler de larga duración. Casi nunca al alquiler vacacional de corta estancia.\n\n¿Por qué? Porque un huésped que reserva 4 noches no se convierte en inquilino con derechos. Llega el viernes, se va el lunes. Rotación, no arraigo.\n\nNo es casualidad que cada vez más propietarios en zonas como Son Vida o Portals estén pasando de inquilinos de largo plazo a huéspedes de paso. Menos riesgo. Más control. Y, bien gestionado, más ingresos.\n\nSi ya estás en corta estancia, el siguiente paso es profesionalizar la experiencia del huésped (y monetizarla). Link en la bio.\n\n#alquilervacacional #mallorca #okupas #propiedadprivada #alquilerturistico #propietarioairbnb #inversioninmobiliaria #baleares #cortaestancia #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/news_okupas_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "This week in Mallorca: 200+ luxury villas held hostage by tenants who stopped paying and now demand a ransom to leave. 🏚️\n\nThe pattern is always the same: they sign a long lease, move in, stop paying. And eviction can take years.\n\nHere's the detail almost nobody points out:\n\nThis happens to long-term rentals. Almost never to short-stay vacation rentals.\n\nWhy? Because a guest who books 4 nights doesn't become a tenant with squatting rights. They arrive Friday, leave Monday. Rotation, not roots.\n\nIt's no coincidence that more owners in areas like Son Vida and Portals are shifting from long-term tenants to short-stay guests. Less risk. More control. And, done right, more income.\n\nIf you're already in short-stay, the next step is professionalizing the guest experience (and monetizing it). Link in bio.\n\n#vacationrental #mallorca #spainproperty #shorttermrental #propertyinvestment #airbnbhost #realestate #spain #hostlife #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/news_okupas_v1.png"
         ]
       }
     ]
