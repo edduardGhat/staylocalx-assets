@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.29",
+    "version": "1.30",
     "last_updated": "2026-05-23",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -1431,6 +1431,26 @@
         "caption": "Te preguntan dónde comer antes de deshacer la maleta. Qué hacer antes de instalarse.\n\nTodo host ya hace de guía. La única pregunta es si ese papel trabaja para ti — o solo te cuesta tiempo.\n\nLas mejores estancias empiezan con las mejores recomendaciones. Y tú ya las das. 🗺️\n\nLink en la bio.\n\n#rentavacacional #hostlife #airbnbmexico #rentaairbnb #verdadesdehost #hostsocultos #viajes #tulum #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ht_01_guide.png"
+        ]
+      }
+    ]
+  },
+  "/publish_news_registro": {
+    "targets": [
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "El Tribunal Supremo ha anulado el registro único estatal de alquileres de corta duración. 🏛️\n\nAntes de lanzar las campanas al vuelo: esto NO significa que el registro desaparezca.\n\nLo que realmente ha pasado:\n\nEl Supremo anula el número de registro ESTATAL único — ese que se pedía para anunciar en plataformas a nivel nacional. ¿El motivo? El Estado invadía competencias autonómicas y duplicaba registros que ya existían.\n\nPero se mantiene la ventanilla única digital y la obligación de las plataformas de transmitir datos.\n\nY lo más importante: los registros AUTONÓMICOS siguen plenamente vigentes. En la mayoría de comunidades necesitas tu número autonómico para operar legalmente.\n\nTraducción para el owner: no es vía libre. Cambia quién lleva el registro, no que tengas que registrarte. Sigue cumpliendo con tu comunidad autónoma.\n\nGuarda este post para cuando te toque renovar.\n\nLink en la bio.\n\n#alquilervacacional #regulacionturistica #pisosturisticos #airbnbespaña #tribunalsupremo #alquilerturistico #propietarioairbnb #mallorca #españa #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/news_registro_v1.png"
+        ]
+      },
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Spain's Supreme Court just struck down the country's national registry for short-term rentals. 🏛️\n\nBefore anyone celebrates: this does NOT mean registration disappears.\n\nWhat actually happened:\n\nThe court annulled the single STATE-level registry number — the one required to list nationwide. The reason? The State was overstepping regional powers and duplicating registries that already existed.\n\nBut the digital single-window and platforms' data-sharing obligations stay in place.\n\nAnd most importantly: REGIONAL registries remain fully in force. In most autonomous communities you still need your regional registration number to operate legally.\n\nTranslation for owners: it's not a free pass. It changes who runs the registry, not whether you need to register. Keep complying with your region.\n\nIf you own property in Spain, save this for your next renewal.\n\nLink in bio.\n\n#spainproperty #vacationrental #shorttermrental #airbnbspain #regulation #propertyinvestment #mallorca #spain #realestate #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/news_registro_v1.png"
         ]
       }
     ]
