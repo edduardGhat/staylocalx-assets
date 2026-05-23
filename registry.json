@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.28",
+    "version": "1.29",
     "last_updated": "2026-05-23",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -1383,6 +1383,54 @@
         "caption": "La clase de atardecer que tus huéspedes seguirán describiendo a sus amigos un año después. 🌅\n\nLas mejores estancias no compiten por precio. Compiten por recuerdo.\n\nLink en la bio.\n\n#alquilervacacional #mediterraneo #villademar #viajes #hostsocultos #escapada #alquilerturistico #mallorca #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/asp_01_remembered.png"
+        ]
+      }
+    ]
+  },
+  "/publish_asp_01_fr": {
+    "targets": [
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Le genre de coucher de soleil que vos voyageurs raconteront encore à leurs amis un an plus tard. 🌅\n\nLes meilleurs séjours ne se battent pas sur le prix. Ils se battent sur le souvenir.\n\nLien en bio.\n\n#locationsaisonniere #mediterranee #cotedazur #villa #voyage #hotescaches #provence #suddelafrance #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/asp_01_remembered.png"
+        ]
+      }
+    ]
+  },
+  "/publish_ht_01_guide_4": {
+    "targets": [
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#airbnbhost #vrbo #hostlife #shorttermrental #vacationrentalowner #hosttruths #travel #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#holidaylet #ukstaycations #hostlife #shorttermrental #airbnbukhost #hosttruths #travel #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "They ask where to eat before they unpack. Where to go before they settle in.\n\nEvery host already plays tour guide. The only question is whether that role works for you — or just costs you time.\n\nThe best stays start with the best recommendations. You're already giving them. 🗺️\n\nLink in bio.\n\n#dubai #abudhabi #vacationrental #shorttermrental #propertyowneruae #hosttruths #luxurytravel #hiddenhosts #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/ht_01_guide.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Te preguntan dónde comer antes de deshacer la maleta. Qué hacer antes de instalarse.\n\nTodo host ya hace de guía. La única pregunta es si ese papel trabaja para ti — o solo te cuesta tiempo.\n\nLas mejores estancias empiezan con las mejores recomendaciones. Y tú ya las das. 🗺️\n\nLink en la bio.\n\n#rentavacacional #hostlife #airbnbmexico #rentaairbnb #verdadesdehost #hostsocultos #viajes #tulum #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/ht_01_guide.png"
         ]
       }
     ]
