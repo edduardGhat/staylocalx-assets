@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.26",
-    "last_updated": "2026-05-22",
+    "version": "1.27",
+    "last_updated": "2026-05-23",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -1343,6 +1343,34 @@
         "caption": "Chiedono dove mangiare prima di disfare le valigie. Dove andare prima di sistemarsi.\n\nOgni host fa già da guida. L'unica domanda è se quel ruolo lavora per te — o ti costa solo tempo.\n\nI soggiorni migliori iniziano dai consigli migliori. E tu li dai già. 🗺️\n\nLink in bio.\n\n#affittibrevi #host #airbnbitalia #veritadahost #hostnascosti #viaggi #toscana #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/ht_01_guide.png"
+        ]
+      }
+    ]
+  },
+  "/publish_asp_01_remembered": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "The kind of evening your guests will still describe to friends a year later. 🌅\n\nThe best stays don't compete on price. They compete on memory.\n\nLink in bio.\n\n#vacationrental #luxurytravel #mediterranean #villarental #travelinspo #hiddenhosts #wanderlust #shorttermrental #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/asp_01_remembered.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "La clase de atardecer que tus huéspedes seguirán describiendo a sus amigos un año después. 🌅\n\nLas mejores estancias no compiten por precio. Compiten por recuerdo.\n\nLink en la bio.\n\n#alquilervacacional #mediterraneo #villademar #viajes #hostsocultos #escapada #alquilerturistico #mallorca #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/asp_01_remembered.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Il tipo di tramonto che i tuoi ospiti racconteranno agli amici un anno dopo. 🌅\n\nI soggiorni migliori non competono sul prezzo. Competono sul ricordo.\n\nLink in bio.\n\n#affittibrevi #mediterraneo #villasulmare #viaggi #hostnascosti #vacanze #toscana #costieraamalfitana #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/asp_01_remembered.png"
         ]
       }
     ]
