@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.27",
+    "version": "1.28",
     "last_updated": "2026-05-23",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -1371,6 +1371,18 @@
         "caption": "Il tipo di tramonto che i tuoi ospiti racconteranno agli amici un anno dopo. 🌅\n\nI soggiorni migliori non competono sul prezzo. Competono sul ricordo.\n\nLink in bio.\n\n#affittibrevi #mediterraneo #villasulmare #viaggi #hostnascosti #vacanze #toscana #costieraamalfitana #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/asp_01_remembered.png"
+        ]
+      }
+    ]
+  },
+  "/publish_asp_01_remembered_es": {
+    "targets": [
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "La clase de atardecer que tus huéspedes seguirán describiendo a sus amigos un año después. 🌅\n\nLas mejores estancias no compiten por precio. Compiten por recuerdo.\n\nLink en la bio.\n\n#alquilervacacional #mediterraneo #villademar #viajes #hostsocultos #escapada #alquilerturistico #mallorca #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/asp_01_remembered.png"
         ]
       }
     ]
