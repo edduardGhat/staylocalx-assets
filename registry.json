@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.30",
-    "last_updated": "2026-05-23",
+    "version": "1.31",
+    "last_updated": "2026-05-27",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -1451,6 +1451,74 @@
         "caption": "Spain's Supreme Court just struck down the country's national registry for short-term rentals. 🏛️\n\nBefore anyone celebrates: this does NOT mean registration disappears.\n\nWhat actually happened:\n\nThe court annulled the single STATE-level registry number — the one required to list nationwide. The reason? The State was overstepping regional powers and duplicating registries that already existed.\n\nBut the digital single-window and platforms' data-sharing obligations stay in place.\n\nAnd most importantly: REGIONAL registries remain fully in force. In most autonomous communities you still need your regional registration number to operate legally.\n\nTranslation for owners: it's not a free pass. It changes who runs the registry, not whether you need to register. Keep complying with your region.\n\nIf you own property in Spain, save this for your next renewal.\n\nLink in bio.\n\n#spainproperty #vacationrental #shorttermrental #airbnbspain #regulation #propertyinvestment #mallorca #spain #realestate #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/news_registro_v1.png"
+        ]
+      }
+    ]
+  },
+  "/publish_p5_money_4060": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Here's a number most hosts never think about: only ~40% of your guests' trip budget goes to where they sleep. 🧮\n\nThe other 60%? Restaurants. Activities. Coffee. Transport. Wine. The local life that makes the trip.\n\nAnd here's the part that matters: you're the person they ask. \"Where should we eat?\" \"What's worth doing?\" Every guest, every stay.\n\nYou already steer that 60%. The only question is whether it works for you.\n\nLink in bio.\n\n#vacationrental #shorttermrental #airbnbhost #hostlife #hiddenhosts #hostingtips #traveltips #vacationrentalowner #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Here's a number most hosts never think about: only ~40% of your guests' trip budget goes to where they sleep. 🧮\n\nThe other 60%? Restaurants. Activities. Coffee. Transport. Wine. The local life that makes the trip.\n\nAnd here's the part that matters: you're the person they ask. \"Where should we eat?\" \"What's worth doing?\" Every guest, every stay.\n\nYou already steer that 60%. The only question is whether it works for you.\n\nLink in bio.\n\n#airbnbhost #vrbo #shorttermrental #hostlife #vacationrentalowner #hiddenhosts #hostingtips #traveltips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Here's a number most hosts never think about: only ~40% of your guests' trip budget goes to where they sleep. 🧮\n\nThe other 60%? Restaurants. Activities. Coffee. Transport. The local life that makes the trip.\n\nAnd here's the part that matters: you're the person they ask. \"Where should we eat?\" \"What's worth doing?\" Every guest, every stay.\n\nYou already steer that 60%. The only question is whether it works for you.\n\nLink in bio.\n\n#holidaylet #ukstaycations #airbnbukhost #shorttermrental #hostlife #hiddenhosts #hostingtips #traveltips #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Here's a number most hosts never think about: only ~40% of your guests' trip budget goes to where they sleep. 🧮\n\nThe other 60%? Fine dining. Experiences. Transport. The local life that makes the trip.\n\nAnd here's the part that matters: you're the person they ask. \"Where should we eat?\" \"What's worth doing?\" Every guest, every stay.\n\nYou already steer that 60%. The only question is whether it works for you.\n\nLink in bio.\n\n#dubai #abudhabi #vacationrental #shorttermrental #propertyowneruae #hiddenhosts #luxurytravel #hostlife #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Aquí va un número en el que casi ningún host piensa: solo ~40% del presupuesto de viaje de tus huéspedes va a dónde duermen. 🧮\n\n¿El otro 60%? Restaurantes. Actividades. Café. Transporte. Vino. La vida local que hace el viaje.\n\nY esto es lo que importa: tú eres a quien le preguntan. \"¿Dónde comemos?\" \"¿Qué merece la pena?\" Cada huésped, cada estancia.\n\nYa diriges ese 60%. La única pregunta es si trabaja para ti.\n\nLink en la bio.\n\n#alquilervacacional #propietarioairbnb #hostlife #hostsocultos #alquilerturistico #consejoshost #viajes #mallorca #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Aquí va un número en el que casi ningún host piensa: solo ~40% del presupuesto de viaje de tus huéspedes va a dónde duermen. 🧮\n\n¿El otro 60%? Restaurantes. Actividades. Café. Transporte. La vida local que hace el viaje.\n\nY esto es lo que importa: tú eres a quien le preguntan. \"¿Dónde comemos?\" \"¿Qué vale la pena?\" Cada huésped, cada estancia.\n\nYa diriges ese 60%. La única pregunta es si trabaja para ti.\n\nLink en la bio.\n\n#rentavacacional #airbnbmexico #hostlife #hostsocultos #rentaairbnb #consejoshost #viajes #tulum #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Voici un chiffre auquel presque aucun hôte ne pense : seulement ~40% du budget de voyage de vos voyageurs va là où ils dorment. 🧮\n\nLes 60% restants ? Restaurants. Activités. Café. Transport. Vin. La vie locale qui fait le voyage.\n\nEt voici ce qui compte : c'est à vous qu'ils demandent. « Où manger ? » « Que faire ? » Chaque voyageur, chaque séjour.\n\nVous orientez déjà ces 60%. La seule question : est-ce que ça travaille pour vous ?\n\nLien en bio.\n\n#locationsaisonniere #hotesfrance #airbnbfrance #hotescaches #revenuspassifs #conseilshote #voyage #provence #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/p5_money_4060.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Ecco un numero a cui quasi nessun host pensa: solo ~40% del budget di viaggio dei tuoi ospiti va a dove dormono. 🧮\n\nIl restante 60%? Ristoranti. Attività. Caffè. Trasporti. Vino. La vita locale che fa il viaggio.\n\nEd ecco cosa conta: sei tu a cui chiedono. «Dove mangiamo?» «Cosa vale la pena?» Ogni ospite, ogni soggiorno.\n\nGuidi già quel 60%. L'unica domanda è se lavora per te.\n\nLink in bio.\n\n#affittibrevi #airbnbitalia #host #hostnascosti #redditipassivi #consiglihost #viaggi #toscana #staylocalx",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p5_money_4060.png"
         ]
       }
     ]
