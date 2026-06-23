@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.31",
-    "last_updated": "2026-05-27",
+    "version": "1.32",
+    "last_updated": "2026-06-23",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -1519,6 +1519,134 @@
         "caption": "Ecco un numero a cui quasi nessun host pensa: solo ~40% del budget di viaggio dei tuoi ospiti va a dove dormono. 🧮\n\nIl restante 60%? Ristoranti. Attività. Caffè. Trasporti. Vino. La vita locale che fa il viaggio.\n\nEd ecco cosa conta: sei tu a cui chiedono. «Dove mangiamo?» «Cosa vale la pena?» Ogni ospite, ogni soggiorno.\n\nGuidi già quel 60%. L'unica domanda è se lavora per te.\n\nLink in bio.\n\n#affittibrevi #airbnbitalia #host #hostnascosti #redditipassivi #consiglihost #viaggi #toscana #staylocalx",
         "images": [
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/p5_money_4060.png"
+        ]
+      }
+    ]
+  },
+  "/publish_secretos_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "The best of any destination never shows up on the first page of Google.\n\nThe early view. The table where the staff eats. The cove with no car park. The shoulder-season week with half the crowds. These are the things you only learn from someone who lives there.\n\nThat's exactly what a great host hands their guests — the local layer no search bar will ever give you.\n\nSave this for your next trip. 📍\n\n#travelsecrets #hiddengems #traveltips #localguide #travelmore #vacationrental #airbnbhost #traveldeeper #offthebeatenpath #wanderlust",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/secretos/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "De Sa Calobra a la Serra de Tramuntana, lo mejor de Mallorca casi nunca sale en la primera página de Google.\n\nLa cala sin parking grande. El celler sin web. Mayo y octubre en lugar de agosto. Eso no lo sabe el buscador: lo sabe quien vive aquí.\n\nY es justo lo que un buen anfitrión le da a sus huéspedes.\n\nGuárdalo para tu próxima escapada. 📍\n\n#mallorca #islasbaleares #secretosdemallorca #serradetramuntana #escapadarural #alquilervacacional #viajarmallorca #turismomallorca #costabrava #españa",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/secretos/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Dalla Val d'Orcia alle colline del Chianti, il meglio della Toscana non sta quasi mai nella prima pagina di Google.\n\nLa trattoria senza menù in inglese. La cantina giusta. Maggio e settembre invece di agosto. Non lo sa il motore di ricerca: lo sa chi vive lì.\n\nEd è proprio ciò che un buon host regala ai suoi ospiti.\n\nSalva per il tuo prossimo viaggio. 📍\n\n#toscana #valdorcia #chianti #sangimignano #borghitoscani #agriturismo #viaggiareintoscana #turismotoscana #amalfi #italia",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/secretos/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Des champs de Valensole aux villages du Luberon, le meilleur de la Provence n'apparaît presque jamais sur la première page de Google.\n\nLa lavande à la bonne semaine. Le marché du village. Mai et septembre plutôt qu'août. Ça, le moteur de recherche l'ignore : celui qui vit là le sait.\n\nEt c'est exactement ce qu'un bon hôte offre à ses voyageurs.\n\nÀ enregistrer pour votre prochain séjour. 📍\n\n#provence #valensole #luberon #lavande #côtedazur #villageprovencal #gîtedefrance #voyagefrance #tourismeprovence #france",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/secretos/slide08.png"
+        ]
+      }
+    ]
+  },
+  "/publish_secretos_b": {
+    "targets": [
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "From Bibury to the high wolds, the best of the Cotswolds rarely shows up on the first page of Google.\n\nThe walk with no car park. The pub locals actually book. May and September instead of peak summer. The search bar doesn't know this — someone who lives there does.\n\nAnd that's exactly what a great host gives their guests.\n\nSave this for your next trip. 📍\n\n#cotswolds #bibury #lakedistrict #englishcountryside #holidaylet #ukstaycation #hiddengems #cotswoldlife #visitengland #traveluk",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/secretos/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "From the farm stands to the bay-side sunsets, the best of the Hamptons never makes the first page of Google.\n\nThe clam shack with a local line. The beach before 9am. June and September instead of peak August. The search bar doesn't know it — someone who lives there does.\n\nAnd that's exactly what a great host gives their guests.\n\nSave this for your next trip. 📍\n\n#hamptons #sagharbor #montauk #napavalley #longisland #vacationrental #airbnbhost #hiddengems #travelusa #weekendgetaway",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/secretos/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "De los cenotes al mar Caribe, lo mejor de Tulum casi nunca sale en la primera página de Google.\n\nEl cenote a primera hora. Los tacos del pueblo. Mayo y noviembre en vez de temporada alta. Eso no lo sabe el buscador: lo sabe quien vive ahí.\n\nY es justo lo que un buen anfitrión le da a sus huéspedes.\n\nGuárdalo para tu próximo viaje. 📍\n\n#tulum #rivieramaya #playadelcarmen #cenotes #quintanaroo #mexicomágico #viajarporméxico #turismoméxico #caribe #airbnbméxico",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/secretos/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "From the dawn desert to Old Dubai across the creek, the best of this city rarely appears on the first page of Google.\n\nThe dunes before the tour fleets. The table Emirati families keep. November to March instead of summer heat. The search bar doesn't know it — someone who truly knows the city does.\n\nAnd that's exactly what a great host gives their guests.\n\nSave this for your next stay. 📍\n\n#dubai #abudhabi #visitdubai #olddubai #uae #mydubai #luxurytravel #desertsafari #vacationrental #traveldubai",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide08.png"
         ]
       }
     ]
