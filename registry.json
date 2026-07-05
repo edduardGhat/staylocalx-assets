@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "1.33",
+    "version": "1.34",
     "last_updated": "2026-07-05",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
@@ -1751,6 +1751,134 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide03.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide04.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide05.png"
+        ]
+      }
+    ]
+  },
+  "/publish_themes_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "A city loft and a beach house shouldn’t wear the same generic guide. Now they don’t.\n\nSix identities — Urban, Coastal, Warm, Editorial, Boutique, Hotel. Pick one and your guest guide takes on the personality of your property: type, color, shapes, everything. One tap, and the result carries your name, not ours.\n\nYour guide. Your brand. Free on Staylocalx. Link in bio.\n\n#airbnbhost #vacationrental #shorttermrental #guestexperience #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding_themes/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Un piso en Palma y una casa junto a la Costa Brava no deberían llevar la misma guía genérica. Ya no.\n\nSeis identidades — Coastal, Warm, Urban, Editorial, Boutique, Hotel. Eliges una y tu guía toma la personalidad de tu propiedad: tipografía, color, formas, todo. Un toque, y el resultado lleva tu nombre, no el nuestro.\n\nTu guía. Tu marca. Gratis en Staylocalx. Link in bio.\n\n#alquilervacacional #anfitrion #airbnbespana #mallorca #costabrava #apartamentoturistico",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding_themes/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Un agriturismo in Toscana e una casa sulla Costiera Amalfitana non dovrebbero avere la stessa guida generica. Ora non più.\n\nSei identità — Warm, Coastal, Editorial, Urban, Boutique, Hotel. Ne scegli una e la tua guida prende la personalità della tua proprietà: tipografia, colori, forme, tutto. Un tocco, e il risultato porta il tuo nome, non il nostro.\n\nLa tua guida. Il tuo brand. Gratis su Staylocalx. Link in bio.\n\n#casavacanze #affittibrevi #toscana #costieraamalfitana #hosting #ospitalita",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding_themes/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Une villa design en Provence et un appartement sur la Côte d’Azur ne devraient pas porter le même guide générique. C’est terminé.\n\nSix identités — Editorial, Warm, Coastal, Boutique, Urban, Hotel. Choisissez-en une et votre guide prend la personnalité de votre propriété : typographie, couleurs, formes, tout. Un geste, et le résultat porte votre nom, pas le nôtre.\n\nVotre guide. Votre marque. Gratuit sur Staylocalx. Lien en bio.\n\n#locationsaisonniere #conciergerie #provence #cotedazur #airbnbfrance #gites",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding_themes/slide08.png"
+        ]
+      }
+    ]
+  },
+  "/publish_themes_b": {
+    "targets": [
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "A Cotswolds cottage and a Lake District farmhouse shouldn’t wear the same generic guide. Now they don’t.\n\nSix identities — Warm, Coastal, Editorial, Urban, Boutique, Hotel. Pick one and your guest guide takes on the personality of your property: type, colour, shapes, everything. One tap, and the result carries your name, not ours.\n\nYour guide. Your brand. Free on Staylocalx. Link in bio.\n\n#holidaylet #airbnbuk #cotswolds #lakedistrict #selfcatering #hosttips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding_themes/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "A Hamptons beach house and a Napa design home shouldn’t wear the same generic guide. Now they don’t.\n\nSix identities — Coastal, Editorial, Urban, Warm, Boutique, Hotel. Pick one and your guest guide takes on the personality of your property: type, color, shapes, everything. One tap, and the result carries your name, not ours.\n\nYour guide. Your brand. Free on Staylocalx. Link in bio.\n\n#airbnbhost #vacationrental #str #hamptons #napavalley #superhost",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding_themes/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Una casa frente al mar en Tulum y un depa en Playa del Carmen no deberían llevar la misma guía genérica. Ya no.\n\nSeis identidades — Coastal, Warm, Urban, Boutique, Editorial, Hotel. Eliges una y tu guía toma la personalidad de tu propiedad: tipografía, color, formas, todo. Un toque, y el resultado lleva tu nombre, no el nuestro.\n\nTu guía. Tu marca. Gratis en Staylocalx. Link in bio.\n\n#rentavacacional #anfitrion #tulum #playadelcarmen #airbnbmexico #hospedaje",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding_themes/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "A Palm villa and a Marina apartment shouldn’t wear the same generic guide. In this market, presentation is everything.\n\nSix identities — Boutique, Editorial, Urban, Hotel, Coastal, Warm. Pick one and your guest guide takes on the personality of your property: type, color, shapes, everything. One tap, and the result carries your name, not ours.\n\nYour guide. Your brand. Free on Staylocalx. Link in bio.\n\n#holidayhomesdubai #dubaishortstay #dubairealestate #abudhabi #luxurystay #vacationhomes",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide08.png"
         ]
       }
     ]
