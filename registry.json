@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.32",
-    "last_updated": "2026-06-23",
+    "version": "1.33",
+    "last_updated": "2026-07-05",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -1647,6 +1647,110 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide06.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide07.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/secretos/slide08.png"
+        ]
+      }
+    ]
+  },
+  "/publish_branding_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Two guest guides. Same home. One is read once and forgotten by check-out — the other gets named in the review.\n\nThe difference isn’t the recommendations. It’s whose name sits on top of them. When the guide carries your logo, your colors and your name, guests stop saying “the apartment we booked” and start saying The Lemon House. Names get remembered. Names get rebooked.\n\nYour guide. Your brand. Branding is now live on Staylocalx — free for hosts. Link in bio.\n\n#airbnbhost #vacationrental #shorttermrental #guestexperience #hostlife",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/branding/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "De Mallorca a la Costa Brava, hay dos tipos de guías para huéspedes: la que se lee una vez y se olvida en el check-out, y la que acaba nombrada en la reseña.\n\nLa diferencia no son las recomendaciones. Es el nombre que las firma. Cuando la guía lleva tu logo, tus colores y tu nombre, el huésped deja de decir «el apartamento que reservamos» y empieza a decir Villa Azahar. Los nombres se recuerdan. Y se vuelven a reservar.\n\nTu guía. Tu marca. Branding ya disponible en Staylocalx — gratis para propietarios. Link in bio.\n\n#alquilervacacional #anfitrion #airbnbespana #mallorca #costabrava #apartamentoturistico",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/branding/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Dalla Toscana alla Costiera Amalfitana, ci sono due tipi di guide per gli ospiti: quella letta una volta e dimenticata al check-out, e quella che finisce nominata nella recensione.\n\nLa differenza non sono i consigli. È il nome che li firma. Quando la guida porta il tuo logo, i tuoi colori e il tuo nome, l’ospite smette di dire «l’appartamento che abbiamo prenotato» e inizia a dire Casa Limoni. I nomi si ricordano. E si riprenotano.\n\nLa tua guida. Il tuo brand. Il branding è ora su Staylocalx — gratis per i proprietari. Link in bio.\n\n#casavacanze #affittibrevi #toscana #costieraamalfitana #hosting #ospitalita",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/branding/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "De la Provence à la Côte d’Azur, il existe deux types de guides voyageurs : celui qu’on lit une fois et qu’on oublie au départ, et celui qui finit cité dans l’avis.\n\nLa différence, ce ne sont pas les recommandations. C’est le nom qui les signe. Quand le guide porte votre logo, vos couleurs et votre nom, vos voyageurs ne disent plus « l’appartement qu’on a réservé » mais Villa Lavande. Un nom, ça se retient. Et ça se réserve à nouveau.\n\nVotre guide. Votre marque. Le branding est disponible sur Staylocalx — gratuit pour les propriétaires. Lien en bio.\n\n#locationsaisonniere #conciergerie #provence #cotedazur #airbnbfrance #gites",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/branding/slide05.png"
+        ]
+      }
+    ]
+  },
+  "/publish_branding_b": {
+    "targets": [
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "From the Cotswolds to the Lake District, there are two kinds of guest guides: the one read once and forgotten by check-out, and the one that ends up named in the review.\n\nThe difference isn’t the recommendations. It’s whose name sits on top of them. When the guide carries your logo, your colours and your name, guests stop saying “the cottage we booked” and start saying Bramble Cottage. Names get remembered. Names get rebooked.\n\nYour guide. Your brand. Branding is now live on Staylocalx — free for hosts. Link in bio.\n\n#holidaylet #airbnbuk #cotswolds #lakedistrict #selfcatering #hosttips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/branding/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "From the Hamptons to Napa Valley, there are two kinds of guest guides: the one read once and forgotten by check-out, and the one that gets named in the five-star review.\n\nThe difference isn’t the recommendations. It’s whose name sits on top of them. When your guide carries your logo, your colors and your name, guests stop saying “the rental we booked” and start saying The Dune House. Names get remembered. Names get rebooked.\n\nYour guide. Your brand. Branding is now live on Staylocalx — free for hosts. Link in bio.\n\n#airbnbhost #vacationrental #str #hamptons #napavalley #superhost",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/branding/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "De Tulum a Playa del Carmen, hay dos tipos de guías para huéspedes: la que se lee una vez y se olvida en el check-out, y la que termina nombrada en la reseña.\n\nLa diferencia no son las recomendaciones. Es el nombre que las firma. Cuando la guía lleva tu logo, tus colores y tu nombre, el huésped deja de decir «el depa que rentamos» y empieza a decir Casa Cenote. Los nombres se recuerdan. Y se vuelven a rentar.\n\nTu guía. Tu marca. Branding ya disponible en Staylocalx — gratis para anfitriones. Link in bio.\n\n#rentavacacional #anfitrion #tulum #playadelcarmen #airbnbmexico #hospedaje",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/branding/slide05.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "From Dubai Marina to Saadiyat Island, there are two kinds of guest guides: the one read once and forgotten at check-out, and the one that becomes part of the stay itself.\n\nThe difference isn’t the recommendations. It’s the name behind them. When your guide carries your logo, your palette and your name, guests stop saying “the apartment we booked” and start saying The Palm Residence. In this market, brand is everything — and it gets remembered, reviewed and rebooked.\n\nYour guide. Your brand. Branding is now live on Staylocalx — free for hosts. Link in bio.\n\n#holidayhomesdubai #dubaishortstay #dubairealestate #abudhabi #luxurystay #vacationhomes",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding/slide05.png"
         ]
       }
     ]
