@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.34",
-    "last_updated": "2026-07-05",
+    "version": "1.35",
+    "last_updated": "2026-07-12",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -1879,6 +1879,134 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide06.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide07.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/branding_themes/slide08.png"
+        ]
+      }
+    ]
+  },
+  "/publish_war_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "23:47. The phone buzzes. “Where should we have dinner tonight?”\n\nEvery host knows the five questions by heart. Dinner. The beach that isn’t packed. Bike hire. The rainy-day plan. Morning coffee. You answer them on every single stay — you already know the good places, the ones that never make the first page of Google.\n\nHere’s the part nobody talks about: those answers send real customers to real businesses, and you’ve never seen a cent of it. Put your recommendations in one guide and local businesses pay you for every visit verified by GPS. You keep 70%.\n\nFree for hosts. Link in bio.\n\n#airbnbhost #vacationrental #shorttermrental #hostlife #guestexperience",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/warstories/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "23:47. Vibra el móvil. «Hola, ¿dónde cenamos esta noche?»\n\nDe Mallorca a la Costa Brava, todo anfitrión se sabe las cinco preguntas de memoria. La cena. La cala que no está a reventar. Las bicis. El plan de día de lluvia. El desayuno. Las respondes estancia tras estancia — y te sabes los sitios buenos, los que nunca salen en la primera página de Google.\n\nLo que nadie dice: esas respuestas llevan clientes reales a negocios reales, y tú nunca has visto un euro. Pon tus recomendaciones en una guía y los negocios locales te pagan por cada visita verificada por GPS. Te quedas el 70%.\n\nGratis para propietarios. Link in bio.\n\n#alquilervacacional #anfitrion #airbnbespana #mallorca #costabrava #apartamentoturistico",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/warstories/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "23:47. Il telefono vibra. «Ciao, dove ceniamo stasera?»\n\nDalla Toscana alla Costiera Amalfitana, ogni host conosce a memoria le cinque domande. La cena. Il posto al mare senza folla. Le bici. Il piano per la giornata di pioggia. La colazione. Rispondi a ogni soggiorno — e conosci i posti giusti, quelli che non stanno nella prima pagina di Google.\n\nQuello che nessuno dice: quelle risposte portano clienti veri ad attività vere, e tu non hai mai visto un euro. Metti i tuoi consigli in una guida e le attività locali ti pagano per ogni visita verificata via GPS. Tieni il 70%.\n\nGratis per i proprietari. Link in bio.\n\n#casavacanze #affittibrevi #toscana #costieraamalfitana #hosting #ospitalita",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/warstories/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "23h47. Le téléphone vibre. « Bonjour, où dîner ce soir ? »\n\nDe la Provence à la Côte d’Azur, tout hôte connaît les cinq questions par cœur. Le dîner. La plage qui n’est pas bondée. Les vélos. Le plan pour un jour de pluie. Le café du matin. Vous y répondez à chaque séjour — et vous connaissez les bonnes adresses, celles qui n’apparaissent jamais sur la première page de Google.\n\nCe que personne ne dit : ces réponses envoient de vrais clients à de vrais commerces, et vous n’avez jamais touché un centime. Rassemblez vos recommandations dans un guide et les commerces locaux vous paient pour chaque visite vérifiée par GPS. Vous gardez 70%.\n\nGratuit pour les propriétaires. Lien en bio.\n\n#locationsaisonniere #conciergerie #provence #cotedazur #airbnbfrance #gites",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/warstories/slide08.png"
+        ]
+      }
+    ]
+  },
+  "/publish_war_b": {
+    "targets": [
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "23:47. The phone buzzes. “Where should we have dinner tonight?”\n\nFrom the Cotswolds to the Lake District, every host knows the five questions by heart. Dinner. The walk that isn’t rammed. Bike hire. The rainy-day plan. Morning coffee. You answer them on every single stay — you already know the good spots, the ones that never make the first page of Google.\n\nHere’s the part nobody talks about: those answers send real customers to real businesses, and you’ve never seen a penny of it. Put your recommendations in one guide and local businesses pay you for every visit verified by GPS. You keep 70%.\n\nFree for hosts. Link in bio.\n\n#holidaylet #airbnbuk #cotswolds #lakedistrict #selfcatering #hosttips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/warstories/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "11:47pm. The phone buzzes. “Where should we grab dinner tonight?”\n\nFrom the Hamptons to Napa Valley, every host knows the five questions by heart. Dinner. The beach that isn’t packed. Bike rentals. The rainy-day plan. Morning coffee. You answer them on every single stay — you already know the good spots, the ones that never make the first page of Google.\n\nHere’s the part nobody talks about: those answers send real customers to real businesses, and you’ve never seen a dollar of it. Put your recommendations in one guide and local businesses pay you for every visit verified by GPS. You keep 70%.\n\nFree for hosts. Link in bio.\n\n#airbnbhost #vacationrental #str #hamptons #napavalley #superhost",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/warstories/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "23:47. Vibra el celular. «Hola, ¿dónde cenamos hoy?»\n\nDe Tulum a Playa del Carmen, todo anfitrión se sabe las cinco preguntas de memoria. La cena. El cenote que no está lleno. Las bicis. El plan de día de lluvia. El desayuno. Las respondes estancia tras estancia — y te sabes los buenos lugares, los que nunca salen en la primera página de Google.\n\nLo que nadie dice: esas respuestas llevan clientes reales a negocios reales, y tú nunca has visto un peso. Pon tus recomendaciones en una guía y los negocios locales te pagan por cada visita verificada por GPS. Te quedas el 70%.\n\nGratis para anfitriones. Link in bio.\n\n#rentavacacional #anfitrion #tulum #playadelcarmen #airbnbmexico #hospedaje",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/warstories/slide08.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "23:47. The phone buzzes. “Where should we have dinner tonight?”\n\nFrom Dubai Marina to Saadiyat Island, every host knows the five questions by heart. Dinner. The desert without the crowds. The beach club. The plan for when it’s too hot outside. Breakfast. You answer them on every single stay — you already know the right places, the ones that never make the first page of Google.\n\nHere’s the part nobody talks about: those answers send real customers to real businesses, and you’ve never seen a dirham of it. Put your recommendations in one guide and local businesses pay you for every visit verified by GPS. You keep 70%.\n\nFree for hosts. Link in bio.\n\n#holidayhomesdubai #dubaishortstay #dubairealestate #abudhabi #luxurystay #vacationhomes",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide07.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide08.png"
         ]
       }
     ]
