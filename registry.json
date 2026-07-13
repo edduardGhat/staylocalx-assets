@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.35",
-    "last_updated": "2026-07-12",
+    "version": "1.36",
+    "last_updated": "2026-07-13",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -2007,6 +2007,126 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide06.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide07.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/warstories/slide08.png"
+        ]
+      }
+    ]
+  },
+  "/publish_reg_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "Two things are squeezing hosts in 2026, and they’re arriving at the same time.\n\nOne: Airbnb switches to a single 15.5% host fee — October 13 for EEA hosts, September 15 for everyone else, 16% in Mexico and Brazil. The guest fee disappears from checkout and the whole commission lands on your payout. If you don’t reprice, you take home roughly 13% less per booking.\n\nTwo: since 20 May 2026, EU rules require platforms to verify registration numbers, report monthly activity data to authorities and suspend listings without a valid number. Outside the EU the direction is identical: registries, night caps, fines.\n\nSame property. Same work. Thinner margin at both ends.\n\nWhich is exactly why one income stream matters more than it used to: the one that doesn’t pass through any booking platform at all. Local businesses paying you for the guests you already send them.\n\nNot legal advice — check the rules that apply where your property is.\n\n#airbnbhost #vacationrental #shorttermrental #hostlife #strregulation",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/reg2026/slide07.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Dos cosas aprietan al propietario en 2026, y llegan a la vez.\n\nUna: Airbnb pasa a comisión única del 15,5% al anfitrión — 13 de octubre en el EEE, 15 de septiembre fuera. Desaparece la tarifa que veía el huésped y toda la comisión cae sobre tu liquidación. Si no ajustas precios, te llevas en torno a un 13% menos por reserva.\n\nDos: en mayo el Tribunal Supremo (sentencia 620/2026) tumbó el Registro Único estatal por falta de competencia. El NRUA deja de ser exigible y el número válido pasa a ser el de tu comunidad autónoma. Lo que no ha cambiado: registro autonómico, SES.Hospédajes, y una comunidad de vecinos que puede prohibir el uso turístico con tres quintos de los votos.\n\nMisma propiedad. Mismo trabajo. Menos margen por los dos lados.\n\nPor eso importa más que nunca un ingreso que no pasa por ninguna plataforma de reservas: el que te pagan los negocios locales por los huéspedes que ya les envías.\n\nEsto no es asesoramiento legal — consulta la normativa de tu comunidad autónoma y tu ayuntamiento.\n\n#alquilervacacional #anfitrion #airbnbespana #mallorca #costabrava #normativaturistica",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/reg2026/slide07.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Due cose stringono i proprietari nel 2026, e arrivano insieme.\n\nUno: Airbnb passa a una commissione unica del 15,5% a carico dell’host — 13 ottobre nello SEE, 15 settembre fuori. La commissione dell’ospite sparisce dal checkout e l’intera cifra esce dal tuo payout. Senza ritoccare i prezzi, incassi circa il 13% in meno per prenotazione.\n\nDue: dal 20 maggio 2026 le piattaforme devono verificare il numero di registrazione, trasmettere dati mensili alle autorità e sospendere gli annunci senza CIN valido. A questo si aggiungono cedolare secca al 21–26%, partita IVA dalla terza proprietà e sanzioni fino a 8.000 €.\n\nStessa casa. Stesso lavoro. Margine più sottile da entrambi i lati.\n\nEcco perché conta più di prima un’entrata che non passa da nessuna piattaforma: quella che le attività locali ti pagano per gli ospiti che già mandi loro.\n\nNon è consulenza legale — verifica le regole del tuo comune e della tua regione.\n\n#casavacanze #affittibrevi #toscana #costieraamalfitana #cin #normativa",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/reg2026/slide07.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Deux choses resserrent la marge des propriétaires en 2026, et elles arrivent ensemble.\n\nUn : Airbnb passe à une commission unique de 15,5% à la charge de l’hôte — 13 octobre dans l’EEE, 15 septembre ailleurs. Les frais visibles côté voyageur disparaissent et la commission entière sort de votre versement. Sans ajustement de prix, vous encaissez environ 13% de moins par réservation.\n\nDeux : la loi Le Meur plafonne la résidence principale à 120 nuits par an, et les maires peuvent descendre à 90 dans les communes tendues. Depuis le 20 mai 2026, les plateformes suspendent les annonces sans numéro valide. Paris a perdu près d’un quart de ses annonces actives en un an.\n\nMême bien. Même travail. Marge plus fine des deux côtés.\n\nD’où l’intérêt d’un revenu qui ne passe par aucune plateforme de réservation : celui que les commerces locaux vous versent pour les voyageurs que vous leur envoyez déjà.\n\nCeci n’est pas un conseil juridique — vérifiez les règles de votre commune.\n\n#locationsaisonniere #conciergerie #provence #cotedazur #loilemeur #airbnbfrance",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/reg2026/slide07.png"
+        ]
+      }
+    ]
+  },
+  "/publish_reg_b": {
+    "targets": [
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "Two things are squeezing hosts in 2026, and they’re landing together.\n\nOne: Airbnb switches to a single 15.5% host fee. UK hosts move over on 15 September. The guest-facing fee disappears at checkout and the whole commission comes out of your payout — roughly 13% less per booking if you don’t reprice.\n\nTwo: England is moving to a mandatory national register for short-term lets, Scotland has required licences since 2022, the 90-night cap still holds across Greater London, and the Furnished Holiday Let tax regime ended in April 2025 — with the reliefs that came with it.\n\nSame property. Same work. Thinner margin at both ends.\n\nWhich is why one income stream matters more than it used to: the one that doesn’t pass through any booking platform. Local businesses paying you for the guests you already send them.\n\nNot legal advice — check the rules for your council and nation.\n\n#holidaylet #airbnbuk #cotswolds #lakedistrict #selfcatering #hosttips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/reg2026/slide07.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "Two things are squeezing hosts in 2026, and they’re landing together.\n\nOne: Airbnb switches to a single 15.5% host fee. US hosts move over on September 15. The guest service fee disappears at checkout and the entire commission comes out of your payout — roughly 13% less per booking if you don’t reprice.\n\nTwo: there’s no federal law, so it’s city by city. New York has issued over $72M in short-term rental fines. Austin requires unlicensed listings to come down from July 1, 2026. Los Angeles caps most whole-home rentals at 120 nights.\n\nSame property. Same work. Thinner margin at both ends.\n\nWhich is why one income stream matters more than it used to: the one that doesn’t pass through any booking platform. Local businesses paying you for the guests you already send them.\n\nNot legal advice — check your city and county rules.\n\n#airbnbhost #vacationrental #str #hamptons #napavalley #superhost",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/reg2026/slide07.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Dos cosas aprietan al anfitrión en 2026, y llegan juntas.\n\nUna: Airbnb pasa a comisión única al anfitrión el 15 de septiembre. Y aquí va el detalle que casi nadie menciona: en México la tarifa es del 16%, medio punto por encima del estándar internacional. Desaparece el cargo que veía el huésped y toda la comisión sale de tu liquidación. Sin ajustar precios, cobras bastante menos por reserva.\n\nDos: de Europa a Estados Unidos, las plataformas ya verifican números de registro y reportan actividad a las autoridades. La dirección global es la misma: más trámite, más control, menos margen para improvisar.\n\nMisma propiedad. Mismo trabajo. Menos margen.\n\nPor eso importa más que nunca un ingreso que no pasa por ninguna plataforma de reservas: el que te pagan los negocios locales por los huéspedes que ya les mandas.\n\nEsto no es asesoramiento legal — verifica las reglas que apliquen donde está tu propiedad.\n\n#rentavacacional #anfitrion #tulum #playadelcarmen #airbnbmexico #hospedaje",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/reg2026/slide07.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "Two things are tightening the numbers for hosts in 2026, and they’re arriving together.\n\nOne: Airbnb switches to a single 15.5% host fee. Hosts outside the EEA — the UAE included — move over on 15 September. The guest sees one clean price at checkout, and the entire commission now sits on your side of the ledger. Roughly 13% less per booking if you don’t reprice.\n\nTwo: globally, platforms now verify registration numbers and report activity data to authorities. Compliance is quietly becoming part of the cost of hosting, everywhere.\n\nSame property. Same standards. Thinner margin.\n\nWhich is why one income stream matters more than it used to: the one that doesn’t pass through any booking platform. Local businesses paying you for the guests you already send them — verified by GPS, 70% yours.\n\nNot legal advice — check the rules that apply to your property.\n\n#holidayhomesdubai #dubaishortstay #dubairealestate #abudhabi #luxurystay #vacationhomes",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide06.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide07.png"
         ]
       }
     ]
