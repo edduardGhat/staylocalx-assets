@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "version": "1.36",
-    "last_updated": "2026-07-13",
+    "version": "1.37",
+    "last_updated": "2026-07-16",
     "description": "Staylocalx Instagram publisher registry. Read by N8N Code Job Builder on every Telegram command.",
     "active_accounts": [
       "@thestaylocalx (EN, €)",
@@ -2127,6 +2127,118 @@
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide05.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide06.png",
           "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/reg2026/slide07.png"
+        ]
+      }
+    ]
+  },
+  "/publish_cmp_a": {
+    "targets": [
+      {
+        "ig_id": "17841439487297303",
+        "name": "@thestaylocalx",
+        "caption": "A guest asks where to eat. You send them to your favourite spot. The restaurant gets a customer. Your guest gets a great dinner. And you? You get nothing.\n\nThat’s how a normal guide works. You make the match, you make €0.\n\nHere’s the same dinner with Staylocalx: the restaurant still gets a customer, your guest still eats well — and you get paid for the visit. €1 restaurants · €3 services · €5 activities, GPS-verified, and you keep 70% of every one. You only earn when they actually go.\n\nYour recommendations were always worth money. Now they pay you. Free to set up, free forever — local businesses cover the rest.\n\nLink in bio.\n\n#airbnbhost #vacationrental #shorttermrental #hostlife #guestexperience",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/master_en/comparativa/slide06.png"
+        ]
+      },
+      {
+        "ig_id": "17841441959099697",
+        "name": "@staylocalx.es",
+        "caption": "Un huésped pregunta dónde cenar. Le mandas a tu sitio favorito. El restaurante gana un cliente. Tu huésped cena de maravilla. ¿Y tú? No ganas nada.\n\nAsí funciona una guía normal. Haces la conexión, ganas €0.\n\nEsta es la misma cena con Staylocalx: el restaurante sigue ganando un cliente, tu huésped sigue cenando bien — y tú cobras por la visita. €1 restaurantes · €3 servicios · €5 actividades, verificado por GPS, y te quedas el 70% de cada una. Solo cobras si el huésped va de verdad.\n\nTus recomendaciones siempre valieron dinero. Ahora te lo pagan. Gratis de montar, gratis para siempre — lo cubren los negocios locales.\n\nLink in bio.\n\n#alquilervacacional #anfitrion #airbnbespana #mallorca #costabrava #apartamentoturistico",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/es/comparativa/slide06.png"
+        ]
+      },
+      {
+        "ig_id": "17841439933286666",
+        "name": "@staylocalx.it",
+        "caption": "Un ospite chiede dove cenare. Lo mandi nel tuo posto preferito. Il ristorante guadagna un cliente. Il tuo ospite cena benissimo. E tu? Non guadagni nulla.\n\nFunziona così una guida normale. Fai l’incontro, guadagni €0.\n\nEcco la stessa cena con Staylocalx: il ristorante guadagna comunque un cliente, il tuo ospite mangia comunque bene — e tu vieni pagato per la visita. €1 ristoranti · €3 servizi · €5 attività, verificato via GPS, e tieni il 70% di ognuna. Guadagni solo se l’ospite ci va davvero.\n\nI tuoi consigli sono sempre valsi denaro. Ora te li pagano. Gratis da configurare, gratis per sempre — pagano le attività locali.\n\nLink in bio.\n\n#casavacanze #affittibrevi #toscana #costieraamalfitana #hosting #ospitalita",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/it/comparativa/slide06.png"
+        ]
+      },
+      {
+        "ig_id": "17841439284826237",
+        "name": "@staylocalx.fr",
+        "caption": "Un voyageur demande où dîner. Vous l’envoyez à votre adresse préférée. Le restaurant gagne un client. Votre voyageur dîne très bien. Et vous ? Vous ne gagnez rien.\n\nC’est ainsi qu’un guide classique fonctionne. Vous faites le lien, vous gagnez 0€.\n\nVoici le même dîner avec Staylocalx : le restaurant gagne toujours un client, votre voyageur dîne toujours bien — et vous êtes payé pour la visite. 1€ restaurants · 3€ services · 5€ activités, vérifié par GPS, et vous gardez 70% de chacune. Vous ne gagnez que s’il s’y rend vraiment.\n\nVos recommandations ont toujours eu de la valeur. Maintenant elles vous rapportent. Gratuit à configurer, gratuit à vie — les commerces locaux couvrent le reste.\n\nLien en bio.\n\n#locationsaisonniere #conciergerie #provence #cotedazur #airbnbfrance #gites",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/fr/comparativa/slide06.png"
+        ]
+      }
+    ]
+  },
+  "/publish_cmp_b": {
+    "targets": [
+      {
+        "ig_id": "17841441328832507",
+        "name": "@staylocalx.uk",
+        "caption": "A guest asks where to eat. You send them to your favourite spot. The restaurant gets a customer. Your guest gets a great dinner. And you? You get nothing.\n\nThat’s how a normal guide works. You make the match, you make £0.\n\nHere’s the same dinner with Staylocalx: the restaurant still gets a customer, your guest still eats well — and you get paid for the visit. £1 restaurants · £3 services · £5 activities, GPS-verified, and you keep 70% of every one. You only earn when they actually go.\n\nYour recommendations were always worth money. Now they pay you. Free to set up, free forever — local businesses cover the rest.\n\nLink in bio.\n\n#holidaylet #airbnbuk #cotswolds #lakedistrict #selfcatering #hosttips",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uk/comparativa/slide06.png"
+        ]
+      },
+      {
+        "ig_id": "17841443547847788",
+        "name": "@staylocalx.us",
+        "caption": "A guest asks where to grab dinner. You send them to your favorite spot. The restaurant gets a customer. Your guest gets a great dinner. And you? You get nothing.\n\nThat’s how a normal guide works. You make the match, you make $0.\n\nHere’s the same dinner with Staylocalx: the restaurant still gets a customer, your guest still eats well — and you get paid for the visit. $1 restaurants · $3 services · $5 activities, GPS-verified, and you keep 70% of every one. You only earn when they actually go.\n\nYour recommendations were always worth money. Now they pay you. Free to set up, free forever — local businesses cover the rest.\n\nLink in bio.\n\n#airbnbhost #vacationrental #str #hamptons #napavalley #superhost",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/us/comparativa/slide06.png"
+        ]
+      },
+      {
+        "ig_id": "17841439354162988",
+        "name": "@staylocalx.mx",
+        "caption": "Un huésped pregunta dónde cenar. Lo mandas a tu lugar favorito. El restaurante gana un cliente. Tu huésped cena de maravilla. ¿Y tú? No ganas nada.\n\nAsí funciona una guía normal. Haces la conexión, ganas $0.\n\nEsta es la misma cena con Staylocalx: el restaurante sigue ganando un cliente, tu huésped sigue cenando bien — y tú cobras por la visita. Verificado por GPS, y te quedas el 70% de cada visita. Solo cobras si el huésped va de verdad.\n\nTus recomendaciones siempre valieron dinero. Ahora te lo pagan. Gratis de montar, gratis para siempre — lo cubren los negocios locales.\n\nLink in bio.\n\n#rentavacacional #anfitrion #tulum #playadelcarmen #airbnbmexico #hospedaje",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/mx/comparativa/slide06.png"
+        ]
+      },
+      {
+        "ig_id": "17841440669880203",
+        "name": "@staylocalx.uae",
+        "caption": "A guest asks where to have dinner. You send them to your favourite spot. The restaurant gets a customer. Your guest has a great dinner. And you? You get nothing.\n\nThat’s how a normal guide works. You make the match, you earn nothing.\n\nHere’s the same dinner with Staylocalx: the restaurant still gets a customer, your guest still dines well — and you get paid for the visit. GPS-verified, and you keep 70% of every one. You only earn when they actually go.\n\nYour recommendations were always worth money. Now they pay you. Free to set up, free forever — local businesses cover the rest.\n\nLink in bio.\n\n#holidayhomesdubai #dubaishortstay #dubairealestate #abudhabi #luxurystay #vacationhomes",
+        "images": [
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/comparativa/slide01.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/comparativa/slide02.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/comparativa/slide03.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/comparativa/slide04.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/comparativa/slide05.png",
+          "https://raw.githubusercontent.com/edduardGhat/staylocalx-assets/main/launch/uae/comparativa/slide06.png"
         ]
       }
     ]
